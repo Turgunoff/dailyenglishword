@@ -1,7 +1,10 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:iconsax_flutter/iconsax_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../main.dart';
 import '../l10n/app_localizations.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class SettingsScreen extends StatefulWidget {
   const SettingsScreen({super.key});
@@ -50,11 +53,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
     themeNotifier.value = isDarkMode ? ThemeMode.dark : ThemeMode.light;
   }
 
-  void _onDailyReminderChanged(bool v) {
-    setState(() => dailyReminder = v);
-    _savePrefs();
-  }
-
   void _onLanguageChanged() async {
     final selected = await showModalBottomSheet<String>(
       context: context,
@@ -92,19 +90,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
       }
       // Force full app rebuild
       appKeyNotifier.value = ValueKey(DateTime.now().millisecondsSinceEpoch);
-    }
-  }
-
-  void _pickTime() async {
-    final picked = await showTimePicker(
-      context: context,
-      initialTime: reminderTime,
-    );
-    if (picked != null) {
-      setState(() {
-        reminderTime = picked;
-      });
-      _savePrefs();
     }
   }
 
@@ -157,20 +142,21 @@ class _SettingsScreenState extends State<SettingsScreen> {
             child: Column(
               children: [
                 ListTile(
-                  leading: Icon(Icons.nightlight_round, color: iconColor),
+                  leading: Icon(Iconsax.moon_copy, color: iconColor),
                   title: Text(
                     // "Qorong'i rejim",
                     loc.darkMode ?? "Dark Mode",
                     style: theme.textTheme.bodyLarge,
                   ),
-                  trailing: Switch(
+                  trailing: CupertinoSwitch(
                     value: isDarkMode,
                     onChanged: _onDarkModeChanged,
+                    activeColor: iconColor,
                   ),
                 ),
                 Divider(height: 1, color: dividerColor),
                 ListTile(
-                  leading: Icon(Icons.language, color: iconColor),
+                  leading: Icon(Iconsax.language_circle_copy, color: iconColor),
                   title: Text(
                     loc.appLanguage,
                     style: theme.textTheme.bodyLarge,
@@ -184,55 +170,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           fontWeight: FontWeight.w500,
                         ),
                       ),
-                      Icon(Icons.chevron_right, color: iconColor),
+                      Icon(Iconsax.arrow_right_3_copy, color: iconColor),
                     ],
                   ),
                   onTap: _onLanguageChanged,
-                ),
-              ],
-            ),
-          ),
-          const SizedBox(height: 24),
-          Text(
-            loc.notifications,
-            style: theme.textTheme.labelMedium?.copyWith(
-              fontWeight: FontWeight.w600,
-              color: sectionTitleColor,
-            ),
-          ),
-          const SizedBox(height: 8),
-          Container(
-            decoration: BoxDecoration(
-              color: cardColor,
-              borderRadius: BorderRadius.circular(16),
-            ),
-            child: Column(
-              children: [
-                ListTile(
-                  leading: Icon(Icons.notifications, color: iconColor),
-                  title: Text(
-                    loc.dailyReminder,
-                    style: theme.textTheme.bodyLarge,
-                  ),
-                  trailing: Switch(
-                    value: dailyReminder,
-                    onChanged: _onDailyReminderChanged,
-                  ),
-                ),
-                Divider(height: 1, color: dividerColor),
-                ListTile(
-                  leading: Icon(Icons.access_time, color: iconColor),
-                  title: Text(
-                    loc.reminderTime,
-                    style: theme.textTheme.bodyLarge,
-                  ),
-                  trailing: Text(
-                    reminderTime.format(context),
-                    style: theme.textTheme.bodyLarge?.copyWith(
-                      fontWeight: FontWeight.w500,
-                    ),
-                  ),
-                  onTap: dailyReminder ? _pickTime : null,
                 ),
               ],
             ),
@@ -254,17 +195,45 @@ class _SettingsScreenState extends State<SettingsScreen> {
             child: Column(
               children: [
                 ListTile(
-                  leading: Icon(Icons.info_outline, color: iconColor),
+                  leading: Icon(Iconsax.info_circle_copy, color: iconColor),
                   title: Text(loc.aboutApp, style: theme.textTheme.bodyLarge),
-                  trailing: Icon(Icons.chevron_right, color: iconColor),
-                  onTap: () {},
+                  trailing: Icon(Iconsax.arrow_right_3_copy, color: iconColor),
+                  onTap: () {
+                    showDialog(
+                      context: context,
+                      builder: (context) => AlertDialog(
+                        title: Text(loc.aboutApp),
+                        content: Text(
+                          Localizations.localeOf(context).languageCode == 'ru'
+                              ? 'Daily English Word — каждый день новое английское слово и пример предложения. Версия: 1.0.0'
+                              : 'Daily English Word — har kuni yangi inglizcha so’z va misol jumla. Versiya: 1.0.0',
+                        ),
+                        actions: [
+                          TextButton(
+                            onPressed: () => Navigator.of(context).pop(),
+                            child: Text('OK'),
+                          ),
+                        ],
+                      ),
+                    );
+                  },
                 ),
                 Divider(height: 1, color: dividerColor),
                 ListTile(
-                  leading: Icon(Icons.star_border, color: iconColor),
+                  leading: Icon(Iconsax.star_copy, color: iconColor),
                   title: Text(loc.rateOnPlay, style: theme.textTheme.bodyLarge),
-                  trailing: Icon(Icons.chevron_right, color: iconColor),
-                  onTap: () {},
+                  trailing: Icon(Iconsax.arrow_right_3_copy, color: iconColor),
+                  onTap: () async {
+                    const url =
+                        'https://play.google.com/store/apps/details?id=com.fridaysnights.dailyenglishword';
+                    final uri = Uri.parse(url);
+                    if (await canLaunchUrl(uri)) {
+                      await launchUrl(
+                        uri,
+                        mode: LaunchMode.externalApplication,
+                      );
+                    }
+                  },
                 ),
               ],
             ),

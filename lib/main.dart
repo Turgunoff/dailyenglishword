@@ -8,6 +8,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:intl/intl.dart';
 import 'l10n/app_localizations.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'screens/splash_screen.dart';
 
 // 🔔 Theme notifier — Global
 final ValueNotifier<ThemeMode> themeNotifier = ValueNotifier(ThemeMode.light);
@@ -55,7 +56,11 @@ class MyApp extends StatelessWidget {
                   darkTheme: appDarkTheme,
                   themeMode: currentMode,
                   locale: currentLocale,
-                  home: const MainScreen(),
+                  initialRoute: '/', // Show splash first
+                  routes: {
+                    '/': (context) => const SplashScreen(),
+                    '/main': (context) => const MainScreen(),
+                  },
                   supportedLocales: const [
                     Locale('uz'),
                     Locale('ru'),

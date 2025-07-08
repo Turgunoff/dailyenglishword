@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
+import 'package:iconsax_flutter/iconsax_flutter.dart';
 import 'package:intl/intl.dart';
 import '../l10n/app_localizations.dart';
 import 'dart:math';
@@ -285,7 +286,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               mainAxisAlignment: MainAxisAlignment.center,
                               children: [
                                 Icon(
-                                  Icons.arrow_back_ios_new,
+                                  Iconsax.arrow_left_2_copy,
                                   size: 18,
                                   color: iconColor,
                                 ),
@@ -316,7 +317,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 Text(loc.tomorrow),
                                 const SizedBox(width: 6),
                                 Icon(
-                                  Icons.arrow_forward_ios,
+                                  Iconsax.arrow_right_3_copy,
                                   size: 18,
                                   color: iconColor,
                                 ),

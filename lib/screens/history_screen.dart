@@ -2,6 +2,7 @@ import 'package:dailyenglishword/l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
+import 'package:iconsax_flutter/iconsax_flutter.dart';
 import 'package:intl/intl.dart';
 
 class HistoryScreen extends StatefulWidget {
@@ -155,7 +156,10 @@ class _HistoryScreenState extends State<HistoryScreen> {
                     controller: _searchController,
                     onChanged: _onSearch,
                     decoration: InputDecoration(
-                      prefixIcon: Icon(Icons.search, color: fadedTextColor),
+                      prefixIcon: Icon(
+                        Iconsax.search_normal_1_copy,
+                        color: fadedTextColor,
+                      ),
                       hintText: loc.searchWords,
                       filled: true,
                       fillColor: cardColor,
@@ -169,7 +173,10 @@ class _HistoryScreenState extends State<HistoryScreen> {
                       ),
                       suffixIcon: search.isNotEmpty
                           ? IconButton(
-                              icon: Icon(Icons.clear, color: fadedTextColor),
+                              icon: Icon(
+                                Iconsax.close_circle_copy,
+                                color: fadedTextColor,
+                              ),
                               onPressed: _clearSearch,
                             )
                           : null,
@@ -222,7 +229,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
                                   ),
                                 ),
                                 Icon(
-                                  Icons.chevron_right,
+                                  Iconsax.arrow_right_3_copy,
                                   color: fadedTextColor,
                                 ),
                               ],
