@@ -1,0 +1,2564 @@
+[
+  {
+    "date": "2025-01-01",
+    "word": "advocate",
+    "pos": "глагол",
+    "translation": "защищать, отстаивать",
+    "example": "She advocates for a more inclusive and equitable education system."
+  },
+  {
+    "date": "2025-01-02",
+    "word": "benevolent",
+    "pos": "прилагательное",
+    "translation": "доброжелательный",
+    "example": "The benevolent leader donated millions to rebuild the war-torn villages."
+  },
+  {
+    "date": "2025-01-03",
+    "word": "diligent",
+    "pos": "прилагательное",
+    "translation": "прилежный, старательный",
+    "example": "He remained diligent in his research, uncovering patterns others had missed."
+  },
+  {
+    "date": "2025-01-04",
+    "word": "scrutinize",
+    "pos": "глагол",
+    "translation": "тщательно изучать",
+    "example": "The investigator scrutinized every document to find inconsistencies."
+  },
+  {
+    "date": "2025-01-05",
+    "word": "meticulous",
+    "pos": "прилагательное",
+    "translation": "дотошный, скрупулёзный",
+    "example": "Her meticulous attention to detail made her the best editor in the firm."
+  },
+  {
+    "date": "2025-01-06",
+    "word": "resilient",
+    "pos": "прилагательное",
+    "translation": "устойчивый, жизнестойкий",
+    "example": "Children are often more resilient than we expect, adapting to changes quickly."
+  },
+  {
+    "date": "2025-01-07",
+    "word": "elaborate",
+    "pos": "глагол",
+    "translation": "уточнить, подробно изложить",
+    "example": "Can you elaborate on your theory regarding quantum entanglement?"
+  },
+  {
+    "date": "2025-01-08",
+    "word": "scramble",
+    "pos": "глагол",
+    "translation": "карабкаться, суетиться",
+    "example": "The team scrambled to meet the tight deadline after the delay."
+  },
+  {
+    "date": "2025-01-09",
+    "word": "ambiguous",
+    "pos": "прилагательное",
+    "translation": "двусмысленный, неоднозначный",
+    "example": "His statement was ambiguous, leaving everyone confused about his intentions."
+  },
+  {
+    "date": "2025-01-10",
+    "word": "contemplate",
+    "pos": "глагол",
+    "translation": "созерцать, обдумывать",
+    "example": "She sat quietly by the lake, contemplating the meaning of her dreams."
+  },
+  {
+    "date": "2025-01-11",
+    "word": "impeccable",
+    "pos": "прилагательное",
+    "translation": "безупречный",
+    "example": "He is known for his impeccable manners and elegant taste."
+  },
+  {
+    "date": "2025-01-12",
+    "word": "alleviate",
+    "pos": "глагол",
+    "translation": "облегчать, смягчать",
+    "example": "This medicine can help alleviate the pain without major side effects."
+  },
+  {
+    "date": "2025-01-13",
+    "word": "vibrant",
+    "pos": "прилагательное",
+    "translation": "яркий, живой",
+    "example": "The artist used vibrant colors to depict the energy of the city."
+  },
+  {
+    "date": "2025-01-14",
+    "word": "feasible",
+    "pos": "прилагательное",
+    "translation": "осуществимый, выполнимый",
+    "example": "Launching a startup with limited funds is challenging but feasible."
+  },
+  {
+    "date": "2025-01-15",
+    "word": "candid",
+    "pos": "прилагательное",
+    "translation": "откровенный, искренний",
+    "example": "She gave a candid account of her experience working abroad."
+  },
+  {
+    "date": "2025-01-16",
+    "word": "inevitable",
+    "pos": "прилагательное",
+    "translation": "неизбежный",
+    "example": "Change is inevitable in any rapidly evolving industry."
+  },
+  {
+    "date": "2025-01-17",
+    "word": "articulate",
+    "pos": "глагол",
+    "translation": "чётко выражать, формулировать",
+    "example": "He struggled to articulate his thoughts under pressure."
+  },
+  {
+    "date": "2025-01-18",
+    "word": "integrity",
+    "pos": "существительное",
+    "translation": "честность, порядочность",
+    "example": "Her integrity was never questioned even in the toughest circumstances."
+  },
+  {
+    "date": "2025-01-19",
+    "word": "lucid",
+    "pos": "прилагательное",
+    "translation": "ясный, понятный",
+    "example": "His writing is lucid and accessible, even to non-experts."
+  },
+  {
+    "date": "2025-01-20",
+    "word": "versatile",
+    "pos": "прилагательное",
+    "translation": "разносторонний, многогранный",
+    "example": "The actor is incredibly versatile, seamlessly shifting between roles."
+  },
+  {
+    "date": "2025-01-21",
+    "word": "scrupulous",
+    "pos": "прилагательное",
+    "translation": "щепетильный, добросовестный",
+    "example": "She is scrupulous in ensuring that all records are accurate."
+  },
+  {
+    "date": "2025-01-22",
+    "word": "magnanimous",
+    "pos": "прилагательное",
+    "translation": "великодушный",
+    "example": "Despite the insult, he remained magnanimous and forgave them all."
+  },
+  {
+    "date": "2025-01-23",
+    "word": "perplexed",
+    "pos": "прилагательное",
+    "translation": "озадаченный, растерянный",
+    "example": "He looked perplexed after hearing the unexpected announcement."
+  },
+  {
+    "date": "2025-01-24",
+    "word": "substantiate",
+    "pos": "глагол",
+    "translation": "обосновывать, подтверждать",
+    "example": "You must substantiate your claim with credible evidence."
+  },
+  {
+    "date": "2025-01-25",
+    "word": "conundrum",
+    "pos": "существительное",
+    "translation": "головоломка, сложная задача",
+    "example": "They faced a legal conundrum that lacked precedent."
+  },
+  {
+    "date": "2025-01-26",
+    "word": "arduous",
+    "pos": "прилагательное",
+    "translation": "трудный, тяжёлый",
+    "example": "Climbing the mountain was an arduous but rewarding journey."
+  },
+  {
+    "date": "2025-01-27",
+    "word": "juxtapose",
+    "pos": "глагол",
+    "translation": "сопоставлять, ставить рядом",
+    "example": "The artist juxtaposed modern and traditional elements in her work."
+  },
+  {
+    "date": "2025-01-28",
+    "word": "ephemeral",
+    "pos": "прилагательное",
+    "translation": "эфемерный, мимолётный",
+    "example": "Fame can be ephemeral in the age of social media."
+  },
+  {
+    "date": "2025-01-29",
+    "word": "formidable",
+    "pos": "прилагательное",
+    "translation": "грозный, внушительный",
+    "example": "She is a formidable opponent with years of experience."
+  },
+  {
+    "date": "2025-01-30",
+    "word": "zealous",
+    "pos": "прилагательное",
+    "translation": "рьяный, усердный",
+    "example": "He is a zealous supporter of environmental conservation."
+  },
+  {
+    "date": "2025-01-31",
+    "word": "tangible",
+    "pos": "прилагательное",
+    "translation": "ощутимый, материальный",
+    "example": "The project yielded tangible results within months."
+  },
+  {
+    "date": "2025-02-01",
+    "word": "advocate",
+    "pos": "глагол",
+    "translation": "защищать, отстаивать",
+    "example": "She advocates for a more inclusive and equitable education system."
+  },
+  {
+    "date": "2025-02-02",
+    "word": "pragmatic",
+    "pos": "прилагательное",
+    "translation": "прагматичный",
+    "example": "Her pragmatic approach to problem-solving was highly effective."
+  },
+  {
+    "date": "2025-02-03",
+    "word": "ubiquitous",
+    "pos": "прилагательное",
+    "translation": "вездесущий, повсеместный",
+    "example": "Smartphones have become ubiquitous in modern society."
+  },
+  {
+    "date": "2025-02-04",
+    "word": "fortitude",
+    "pos": "существительное",
+    "translation": "сила духа, стойкость",
+    "example": "She showed great fortitude during her long illness."
+  },
+  {
+    "date": "2025-02-05",
+    "word": "eloquent",
+    "pos": "прилагательное",
+    "translation": "красноречивый",
+    "example": "His eloquent speech moved everyone in the audience."
+  },
+  {
+    "date": "2025-02-06",
+    "word": "anomaly",
+    "pos": "существительное",
+    "translation": "аномалия, отклонение",
+    "example": "The sudden spike in the data was considered an anomaly."
+  },
+  {
+    "date": "2025-02-07",
+    "word": "superfluous",
+    "pos": "прилагательное",
+    "translation": "излишний, ненужный",
+    "example": "Please remove all the superfluous details from the report."
+  },
+  {
+    "date": "2025-02-08",
+    "word": "gregarious",
+    "pos": "прилагательное",
+    "translation": "общительный, компанейский",
+    "example": "He is a gregarious person who enjoys being in large groups."
+  },
+  {
+    "date": "2025-02-09",
+    "word": "obfuscate",
+    "pos": "глагол",
+    "translation": "запутывать, сбивать с толку",
+    "example": "The politician tried to obfuscate the issue with irrelevant facts."
+  },
+  {
+    "date": "2025-02-10",
+    "word": "tenacious",
+    "pos": "прилагательное",
+    "translation": "упорный, цепкий",
+    "example": "Her tenacious grip on the rope saved her from falling."
+  },
+  {
+    "date": "2025-02-11",
+    "word": "epiphany",
+    "pos": "существительное",
+    "translation": "прозрение, озарение",
+    "example": "He had an epiphany that a simple change could solve the entire problem."
+  },
+  {
+    "date": "2025-02-12",
+    "word": "taciturn",
+    "pos": "прилагательное",
+    "translation": "молчаливый, неразговорчивый",
+    "example": "The new employee was taciturn and rarely spoke to his colleagues."
+  },
+  {
+    "date": "2025-02-13",
+    "word": "quixotic",
+    "pos": "прилагательное",
+    "translation": "дон-кихотский, идеалистичный",
+    "example": "His quixotic plan to end world hunger was admirable but impractical."
+  },
+  {
+    "date": "2025-02-14",
+    "word": "myriad",
+    "pos": "прилагательное",
+    "translation": "бесчисленный, мириады",
+    "example": "The city offers a myriad of entertainment options for tourists."
+  },
+  {
+    "date": "2025-02-15",
+    "word": "pensive",
+    "pos": "прилагательное",
+    "translation": "задумчивый",
+    "example": "She looked pensive as she stared out the window."
+  },
+  {
+    "date": "2025-02-16",
+    "word": "truncate",
+    "pos": "глагол",
+    "translation": "усекать, укорачивать",
+    "example": "The article was truncated to fit on a single page."
+  },
+  {
+    "date": "2025-02-17",
+    "word": "lethargic",
+    "pos": "прилагательное",
+    "translation": "вялый, апатичный",
+    "example": "The hot weather made everyone feel lethargic."
+  },
+  {
+    "date": "2025-02-18",
+    "word": "acumen",
+    "pos": "существительное",
+    "translation": "проницательность, смекалка",
+    "example": "Her business acumen helped the company succeed."
+  },
+  {
+    "date": "2025-02-19",
+    "word": "capricious",
+    "pos": "прилагательное",
+    "translation": "капризный, непостоянный",
+    "example": "The weather in this region is notoriously capricious."
+  },
+  {
+    "date": "2025-02-20",
+    "word": "garrulous",
+    "pos": "прилагательное",
+    "translation": "разговорчивый, болтливый",
+    "example": "The garrulous taxi driver talked throughout the entire journey."
+  },
+  {
+    "date": "2025-02-21",
+    "word": "prudent",
+    "pos": "прилагательное",
+    "translation": "благоразумный, предусмотрительный",
+    "example": "Making prudent investments is key to long-term financial security."
+  },
+  {
+    "date": "2025-02-22",
+    "word": "novice",
+    "pos": "существительное",
+    "translation": "новичок, начинающий",
+    "example": "As a novice chess player, he still had much to learn."
+  },
+  {
+    "date": "2025-02-23",
+    "word": "ostentatious",
+    "pos": "прилагательное",
+    "translation": "показной, хвастливый",
+    "example": "He bought an ostentatious car to show off his wealth."
+  },
+  {
+    "date": "2025-02-24",
+    "word": "reclusive",
+    "pos": "прилагательное",
+    "translation": "затворнический, уединенный",
+    "example": "The famous author became reclusive and avoided public appearances."
+  },
+  {
+    "date": "2025-02-25",
+    "word": "serendipity",
+    "pos": "существительное",
+    "translation": "интуитивная прозорливость, серендипность",
+    "example": "Finding that rare book in a small shop was pure serendipity."
+  },
+  {
+    "date": "2025-02-26",
+    "word": "voracious",
+    "pos": "прилагательное",
+    "translation": "прожорливый, ненасытный",
+    "example": "He has a voracious appetite for knowledge, reading several books a week."
+  },
+  {
+    "date": "2025-02-27",
+    "word": "caustic",
+    "pos": "прилагательное",
+    "translation": "едкий, язвительный",
+    "example": "His caustic remarks hurt the feelings of many people."
+  },
+  {
+    "date": "2025-02-28",
+    "word": "sycophant",
+    "pos": "существительное",
+    "translation": "подхалим, льстец",
+    "example": "The manager was surrounded by sycophants who agreed with his every word."
+  },
+  {
+    "date": "2025-03-01",
+    "word": "pugnacious",
+    "pos": "прилагательное",
+    "translation": "драчливый, воинственный",
+    "example": "The pugnacious politician was always ready for a debate."
+  },
+  {
+    "date": "2025-03-02",
+    "word": "salient",
+    "pos": "прилагательное",
+    "translation": "ключевой, основной",
+    "example": "The salient point of his argument was that the costs were too high."
+  },
+  {
+    "date": "2025-03-03",
+    "word": "dichotomy",
+    "pos": "существительное",
+    "translation": "дихотомия, раздвоенность",
+    "example": "There is a false dichotomy between science and religion for many."
+  },
+  {
+    "date": "2025-03-04",
+    "word": "fastidious",
+    "pos": "прилагательное",
+    "translation": "привередливый, разборчивый",
+    "example": "He is very fastidious about how his food is prepared."
+  },
+  {
+    "date": "2025-03-05",
+    "word": "ken",
+    "pos": "существительное",
+    "translation": "кругозор, понимание",
+    "example": "The complex physics problem was beyond my ken."
+  },
+  {
+    "date": "2025-03-06",
+    "word": "maudlin",
+    "pos": "прилагательное",
+    "translation": "сентиментальный, слезливый",
+    "example": "The film became maudlin and overly sentimental in the end."
+  },
+  {
+    "date": "2025-03-07",
+    "word": "nefarious",
+    "pos": "прилагательное",
+    "translation": "гнусный, подлый",
+    "example": "The villain's nefarious plot was to take over the world."
+  },
+  {
+    "date": "2025-03-08",
+    "word": "panacea",
+    "pos": "существительное",
+    "translation": "панацея",
+    "example": "Technology is not a panacea for all our social problems."
+  },
+  {
+    "date": "2025-03-09",
+    "word": "rancor",
+    "pos": "существительное",
+    "translation": "злоба, неприязнь",
+    "example": "Despite the fierce competition, there was no rancor between the players."
+  },
+  {
+    "date": "2025-03-10",
+    "word": "usurp",
+    "pos": "глагол",
+    "translation": "узурпировать, захватывать",
+    "example": "He tried to usurp the throne from the rightful king."
+  },
+  {
+    "date": "2025-03-11",
+    "word": "vilify",
+    "pos": "глагол",
+    "translation": "очернять, поносить",
+    "example": "The media campaign tried to vilify the politician."
+  },
+  {
+    "date": "2025-03-12",
+    "word": "wane",
+    "pos": "глагол",
+    "translation": "убывать, ослабевать",
+    "example": "The public's interest in the scandal began to wane."
+  },
+  {
+    "date": "2025-03-13",
+    "word": "zenith",
+    "pos": "существительное",
+    "translation": "зенит, вершина",
+    "example": "At the zenith of her career, she was the most famous actress in the world."
+  },
+  {
+    "date": "2025-03-14",
+    "word": "abate",
+    "pos": "глагол",
+    "translation": "ослабевать, утихать",
+    "example": "After the storm, the winds began to abate."
+  },
+  {
+    "date": "2025-03-15",
+    "word": "banal",
+    "pos": "прилагательное",
+    "translation": "банальный, избитый",
+    "example": "The movie's plot was banal and predictable."
+  },
+  {
+    "date": "2025-03-16",
+    "word": "cogent",
+    "pos": "прилагательное",
+    "translation": "убедительный, веский",
+    "example": "She presented a cogent argument for changing the policy."
+  },
+  {
+    "date": "2025-03-17",
+    "word": "denigrate",
+    "pos": "глагол",
+    "translation": "очернять, клеветать",
+    "example": "It is not fair to denigrate someone's hard work."
+  },
+  {
+    "date": "2025-03-18",
+    "word": "emulate",
+    "pos": "глагол",
+    "translation": "подражать, следовать примеру",
+    "example": "Many young artists try to emulate the style of the great masters."
+  },
+  {
+    "date": "2025-03-19",
+    "word": "foment",
+    "pos": "глагол",
+    "translation": "разжигать, подстрекать",
+    "example": "He was accused of fomenting political unrest."
+  },
+  {
+    "date": "2025-03-20",
+    "word": "hegemony",
+    "pos": "существительное",
+    "translation": "гегемония, господство",
+    "example": "The country sought regional hegemony through economic and military power."
+  },
+  {
+    "date": "2025-03-21",
+    "word": "iconoclast",
+    "pos": "существительное",
+    "translation": "иконоборец, бунтарь",
+    "example": "As an iconoclast, she challenged the traditional beliefs of her time."
+  },
+  {
+    "date": "2025-03-22",
+    "word": "laudatory",
+    "pos": "прилагательное",
+    "translation": "хвалебный, лестный",
+    "example": "The play received laudatory reviews from the critics."
+  },
+  {
+    "date": "2025-03-23",
+    "word": "nascent",
+    "pos": "прилагательное",
+    "translation": "зарождающийся",
+    "example": "The nascent tech industry in the region is showing great promise."
+  },
+  {
+    "date": "2025-03-24",
+    "word": "obsequious",
+    "pos": "прилагательное",
+    "translation": "подобострастный, угодливый",
+    "example": "The obsequious assistant followed the boss everywhere."
+  },
+  {
+    "date": "2025-03-25",
+    "word": "querulous",
+    "pos": "прилагательное",
+    "translation": "вечно недовольный, ворчливый",
+    "example": "His querulous tone made it difficult to have a conversation with him."
+  },
+  {
+    "date": "2025-03-26",
+    "word": "sanguine",
+    "pos": "прилагательное",
+    "translation": "оптимистичный, жизнерадостный",
+    "example": "She is sanguine about the company's future prospects."
+  },
+  {
+    "date": "2025-03-27",
+    "word": "tirade",
+    "pos": "существительное",
+    "translation": "тирада, гневная речь",
+    "example": "He launched into a tirade against the government's policies."
+  },
+  {
+    "date": "2025-03-28",
+    "word": "vex",
+    "pos": "глагол",
+    "translation": "досаждать, раздражать",
+    "example": "The constant delays began to vex the passengers."
+  },
+  {
+    "date": "2025-03-29",
+    "word": "yoke",
+    "pos": "глагол",
+    "translation": "запрягать, обременять",
+    "example": "The peasants were yoked by the heavy taxes."
+  },
+  {
+    "date": "2025-03-30",
+    "word": "accolade",
+    "pos": "существительное",
+    "translation": "награда, похвала",
+    "example": "She received the highest accolade of her profession."
+  },
+  {
+    "date": "2025-03-31",
+    "word": "bereft",
+    "pos": "прилагательное",
+    "translation": "лишенный, обездоленный",
+    "example": "After his friend moved away, he felt completely bereft."
+  },
+  {
+    "date": "2025-04-01",
+    "word": "celerity",
+    "pos": "существительное",
+    "translation": "быстрота, проворство",
+    "example": "The team responded with celerity to the emergency."
+  },
+  {
+    "date": "2025-04-02",
+    "word": "ebullient",
+    "pos": "прилагательное",
+    "translation": "кипучий, восторженный",
+    "example": "She was in an ebullient mood after receiving the good news."
+  },
+  {
+    "date": "2025-04-03",
+    "word": "diaphanous",
+    "pos": "прилагательное",
+    "translation": "прозрачный, воздушный",
+    "example": "The bride wore a diaphanous veil."
+  },
+  {
+    "date": "2025-04-04",
+    "word": "grandiloquent",
+    "pos": "прилагательное",
+    "translation": "высокопарный, напыщенный",
+    "example": "His speech was full of grandiloquent language but lacked substance."
+  },
+  {
+    "date": "2025-04-05",
+    "word": "inchoate",
+    "pos": "прилагательное",
+    "translation": "начальный, незавершенный",
+    "example": "Her inchoate ideas needed more development before being presented."
+  },
+  {
+    "date": "2025-04-06",
+    "word": "limpid",
+    "pos": "прилагательное",
+    "translation": "прозрачный, ясный",
+    "example": "We could see the fish swimming in the limpid water."
+  },
+  {
+    "date": "2025-04-07",
+    "word": "mellifluous",
+    "pos": "прилагательное",
+    "translation": "сладкозвучный, медовый",
+    "example": "Her mellifluous voice was perfect for reading poetry."
+  },
+  {
+    "date": "2025-04-08",
+    "word": "opulent",
+    "pos": "прилагательное",
+    "translation": "роскошный, богатый",
+    "example": "They lived an opulent lifestyle in a huge mansion."
+  },
+  {
+    "date": "2025-04-09",
+    "word": "paragon",
+    "pos": "существительное",
+    "translation": "образец, эталон",
+    "example": "He was considered a paragon of virtue in his community."
+  },
+  {
+    "date": "2025-04-10",
+    "word": "recalcitrant",
+    "pos": "прилагательное",
+    "translation": "непокорный, упрямый",
+    "example": "The recalcitrant student refused to do his homework."
+  },
+  {
+    "date": "2025-04-11",
+    "word": "somnolent",
+    "pos": "прилагательное",
+    "translation": "сонливый, дремлющий",
+    "example": "The somnolent cat lay in the patch of sun."
+  },
+  {
+    "date": "2025-04-12",
+    "word": "trenchant",
+    "pos": "прилагательное",
+    "translation": "резкий, острый",
+    "example": "His trenchant criticism highlighted the weaknesses of the plan."
+  },
+  {
+    "date": "2025-04-13",
+    "word": "umbrage",
+    "pos": "существительное",
+    "translation": "обида, негодование",
+    "example": "She took umbrage at his rude comment."
+  },
+  {
+    "date": "2025-04-14",
+    "word": "veracity",
+    "pos": "существительное",
+    "translation": "правдивость, достоверность",
+    "example": "The lawyer questioned the veracity of the witness's statement."
+  },
+  {
+    "date": "2025-04-15",
+    "word": "winsome",
+    "pos": "прилагательное",
+    "translation": "обаятельный, привлекательный",
+    "example": "Her winsome smile charmed everyone she met."
+  },
+  {
+    "date": "2025-04-16",
+    "word": "abjure",
+    "pos": "глагол",
+    "translation": "отрекаться, отказываться",
+    "example": "He was forced to abjure his political beliefs."
+  },
+  {
+    "date": "2025-04-17",
+    "word": "bilk",
+    "pos": "глагол",
+    "translation": "обманывать, надувать",
+    "example": "The con artist tried to bilk the elderly couple out of their savings."
+  },
+  {
+    "date": "2025-04-18",
+    "word": "corpulent",
+    "pos": "прилагательное",
+    "translation": "тучный, полный",
+    "example": "The corpulent man had difficulty climbing the stairs."
+  },
+  {
+    "date": "2025-04-19",
+    "word": "dulcet",
+    "pos": "прилагательное",
+    "translation": "сладкий, нежный",
+    "example": "The dulcet tones of the harp filled the room."
+  },
+  {
+    "date": "2025-04-20",
+    "word": "exculpate",
+    "pos": "глагол",
+    "translation": "оправдывать, реабилитировать",
+    "example": "The new evidence helped to exculpate the defendant."
+  },
+  {
+    "date": "2025-04-21",
+    "word": "fallacious",
+    "pos": "прилагательное",
+    "translation": "ложный, ошибочный",
+    "example": "His argument was based on fallacious reasoning."
+  },
+  {
+    "date": "2025-04-22",
+    "word": "ignominious",
+    "pos": "прилагательное",
+    "translation": "позорный, унизительный",
+    "example": "The team suffered an ignominious defeat."
+  },
+  {
+    "date": "2025-04-23",
+    "word": "kismet",
+    "pos": "существительное",
+    "translation": "судьба, рок",
+    "example": "He believed it was kismet that they met on that rainy day."
+  },
+  {
+    "date": "2025-04-24",
+    "word": "mendacious",
+    "pos": "прилагательное",
+    "translation": "лживый, неправдивый",
+    "example": "The mendacious politician was caught in another lie."
+  },
+  {
+    "date": "2025-04-25",
+    "word": "onerous",
+    "pos": "прилагательное",
+    "translation": "обременительный, тягостный",
+    "example": "He found the task of organizing the event to be quite onerous."
+  },
+  {
+    "date": "2025-04-26",
+    "word": "pellucid",
+    "pos": "прилагательное",
+    "translation": "прозрачный, ясный",
+    "example": "Her pellucid writing style made complex ideas easy to understand."
+  },
+  {
+    "date": "2025-04-27",
+    "word": "quandary",
+    "pos": "существительное",
+    "translation": "затруднительное положение, дилемма",
+    "example": "I was in a quandary about whether to accept the job offer."
+  },
+  {
+    "date": "2025-04-28",
+    "word": "reprobate",
+    "pos": "существительное",
+    "translation": "негодяй, подлец",
+    "example": "He was known as a drunken reprobate in the town."
+  },
+  {
+    "date": "2025-04-29",
+    "word": "spurious",
+    "pos": "прилагательное",
+    "translation": "поддельный, фальшивый",
+    "example": "He was arrested for making spurious claims about the product."
+  },
+  {
+    "date": "2025-04-30",
+    "word": "turpitude",
+    "pos": "существительное",
+    "translation": "подлость, низость",
+    "example": "The criminal was sentenced for acts of moral turpitude."
+  },
+  {
+    "date": "2025-05-01",
+    "word": "vituperate",
+    "pos": "глагол",
+    "translation": "ругать, поносить",
+    "example": "The manager began to vituperate his staff for the simple mistake."
+  },
+  {
+    "date": "2025-05-02",
+    "word": "alacrity",
+    "pos": "существительное",
+    "translation": "готовность, рвение",
+    "example": "She accepted the new challenge with alacrity."
+  },
+  {
+    "date": "2025-05-03",
+    "word": "circumspect",
+    "pos": "прилагательное",
+    "translation": "осмотрительный, осторожный",
+    "example": "In this situation, you need to be very circumspect about whom you trust."
+  },
+  {
+    "date": "2025-05-04",
+    "word": "deleterious",
+    "pos": "прилагательное",
+    "translation": "вредный, пагубный",
+    "example": "Smoking has deleterious effects on your health."
+  },
+  {
+    "date": "2025-05-05",
+    "word": "enervate",
+    "pos": "глагол",
+    "translation": "ослаблять, лишать сил",
+    "example": "The long journey seemed to enervate the elderly passengers."
+  },
+  {
+    "date": "2025-05-06",
+    "word": "fatuous",
+    "pos": "прилагательное",
+    "translation": "глупый, бессмысленный",
+    "example": "He made a fatuous comment that annoyed everyone."
+  },
+  {
+    "date": "2025-05-07",
+    "word": "harangue",
+    "pos": "существительное",
+    "translation": "обличительная речь, тирада",
+    "example": "The coach delivered a long harangue to the team after their loss."
+  },
+  {
+    "date": "2025-05-08",
+    "word": "insipid",
+    "pos": "прилагательное",
+    "translation": "безвкусный, пресный",
+    "example": "The soup was bland and insipid."
+  },
+  {
+    "date": "2025-05-09",
+    "word": "lachrymose",
+    "pos": "прилагательное",
+    "translation": "слезливый, плаксивый",
+    "example": "The lachrymose movie made everyone in the theater cry."
+  },
+  {
+    "date": "2025-05-10",
+    "word": "maladroit",
+    "pos": "прилагательное",
+    "translation": "неуклюжий, неловкий",
+    "example": "His maladroit handling of the situation only made things worse."
+  },
+  {
+    "date": "2025-05-11",
+    "word": "nonplussed",
+    "pos": "прилагательное",
+    "translation": "озадаченный, растерянный",
+    "example": "She was nonplussed by the unexpected question."
+  },
+  {
+    "date": "2025-05-12",
+    "word": "paucity",
+    "pos": "существительное",
+    "translation": "недостаток, нехватка",
+    "example": "There is a paucity of evidence to support his claim."
+  },
+  {
+    "date": "2025-05-13",
+    "word": "phlegmatic",
+    "pos": "прилагательное",
+    "translation": "флегматичный, невозмутимый",
+    "example": "The phlegmatic driver remained calm during the traffic jam."
+  },
+  {
+    "date": "2025-05-14",
+    "word": "quiescent",
+    "pos": "прилагательное",
+    "translation": "покоящийся, неактивный",
+    "example": "The volcano has been quiescent for many years."
+  },
+  {
+    "date": "2025-05-15",
+    "word": "rife",
+    "pos": "прилагательное",
+    "translation": "изобилующий, распространенный (негатив.)",
+    "example": "The city was rife with rumors and speculation."
+  },
+  {
+    "date": "2025-05-16",
+    "word": "solicitous",
+    "pos": "прилагательное",
+    "translation": "заботливый, внимательный",
+    "example": "She was always solicitous about the welfare of her students."
+  },
+  {
+    "date": "2025-05-17",
+    "word": "truculent",
+    "pos": "прилагательное",
+    "translation": "агрессивный, свирепый",
+    "example": "His truculent attitude made him unpopular with his colleagues."
+  },
+  {
+    "date": "2025-05-18",
+    "word": "unctuous",
+    "pos": "прилагательное",
+    "translation": "льстивый, елейный",
+    "example": "I don't trust his unctuous praise; it feels insincere."
+  },
+  {
+    "date": "2025-05-19",
+    "word": "vacillate",
+    "pos": "глагол",
+    "translation": "колебаться, быть в нерешительности",
+    "example": "She tends to vacillate between choosing a career in law and medicine."
+  },
+  {
+    "date": "2025-05-20",
+    "word": "wizened",
+    "pos": "прилагательное",
+    "translation": "сморщенный, высохший",
+    "example": "The old sailor had a wizened face from years in the sun."
+  },
+  {
+    "date": "2025-05-21",
+    "word": "acerbic",
+    "pos": "прилагательное",
+    "translation": "едкий, язвительный",
+    "example": "Her acerbic wit can be both funny and hurtful."
+  },
+  {
+    "date": "2025-05-22",
+    "word": "blandishment",
+    "pos": "существительное",
+    "translation": "лесть, уговоры",
+    "example": "He was impervious to her blandishments."
+  },
+  {
+    "date": "2025-05-23",
+    "word": "chicanery",
+    "pos": "существительное",
+    "translation": "крючкотворство, уловки",
+    "example": "The politician was accused of using chicanery to win the election."
+  },
+  {
+    "date": "2025-05-24",
+    "word": "didactic",
+    "pos": "прилагательное",
+    "translation": "дидактический, нравоучительный",
+    "example": "The novel was too didactic for my taste; it felt like a lecture."
+  },
+  {
+    "date": "2025-05-25",
+    "word": "eschew",
+    "pos": "глагол",
+    "translation": "избегать, сторониться",
+    "example": "He made a decision to eschew all forms of processed food."
+  },
+  {
+    "date": "2025-05-26",
+    "word": "exacerbate",
+    "pos": "глагол",
+    "translation": "усугублять, обострять",
+    "example": "His harsh words only served to exacerbate the tense situation."
+  },
+  {
+    "date": "2025-05-27",
+    "word": "invective",
+    "pos": "существительное",
+    "translation": "инвектива, брань",
+    "example": "The politician's speech was full of bitter invective against his opponents."
+  },
+  {
+    "date": "2025-05-28",
+    "word": "proclivity",
+    "pos": "существительное",
+    "translation": "склонность, пристрастие",
+    "example": "She has a proclivity for telling exaggerated stories."
+  },
+  {
+    "date": "2025-05-29",
+    "word": "assiduous",
+    "pos": "прилагательное",
+    "translation": "усердный, прилежный",
+    "example": "The assiduous student spent hours in the library."
+  },
+  {
+    "date": "2025-05-30",
+    "word": "bombastic",
+    "pos": "прилагательное",
+    "translation": "напыщенный, высокопарный",
+    "example": "His bombastic speeches were full of promises but empty of action."
+  },
+  {
+    "date": "2025-05-31",
+    "word": "effrontery",
+    "pos": "существительное",
+    "translation": "наглость, дерзость",
+    "example": "He had the effrontery to ask for a raise after being late all week."
+  },
+  {
+    "date": "2025-06-01",
+    "word": "impecunious",
+    "pos": "прилагательное",
+    "translation": "неимущий, бедный",
+    "example": "The impecunious artist struggled to buy paints."
+  },
+  {
+    "date": "2025-06-02",
+    "word": "inure",
+    "pos": "глагол",
+    "translation": "приучать, закалять",
+    "example": "The soldiers were inured to the hardships of life in the field."
+  },
+  {
+    "date": "2025-06-03",
+    "word": "jubilant",
+    "pos": "прилагательное",
+    "translation": "ликующий, радостный",
+    "example": "The jubilant crowd celebrated their team's victory."
+  },
+  {
+    "date": "2025-06-04",
+    "word": "munificent",
+    "pos": "прилагательное",
+    "translation": "щедрый, великодушный",
+    "example": "A munificent benefactor donated the new library wing."
+  },
+  {
+    "date": "2025-06-05",
+    "word": "penurious",
+    "pos": "прилагательное",
+    "translation": "бедный, скудный",
+    "example": "The penurious family could barely afford to eat."
+  },
+  {
+    "date": "2025-06-06",
+    "word": "perfidy",
+    "pos": "существительное",
+    "translation": "вероломство, предательство",
+    "example": "His act of perfidy was a betrayal to his country."
+  },
+  {
+    "date": "2025-06-07",
+    "word": "precipitate",
+    "pos": "глагол",
+    "translation": "ускорять, вызывать",
+    "example": "The announcement precipitated a rush of applications."
+  },
+  {
+    "date": "2025-06-08",
+    "word": "prosaic",
+    "pos": "прилагательное",
+    "translation": "прозаичный, скучный",
+    "example": "She lived a prosaic life, with the same routine every day."
+  },
+  {
+    "date": "2025-06-09",
+    "word": "punctilious",
+    "pos": "прилагательное",
+    "translation": "педантичный, скрупулезный",
+    "example": "He was punctilious about following the rules of grammar."
+  },
+  {
+    "date": "2025-06-10",
+    "word": "salubrious",
+    "pos": "прилагательное",
+    "translation": "целебный, полезный для здоровья",
+    "example": "The salubrious mountain air was refreshing."
+  },
+  {
+    "date": "2025-06-11",
+    "word": "staid",
+    "pos": "прилагательное",
+    "translation": "степенный, уравновешенный",
+    "example": "The company had a staid reputation for being conservative."
+  },
+  {
+    "date": "2025-06-12",
+    "word": "transient",
+    "pos": "прилагательное",
+    "translation": "мимолетный, временный",
+    "example": "The homeless population is often transient, moving from place to place."
+  },
+  {
+    "date": "2025-06-13",
+    "word": "veritable",
+    "pos": "прилагательное",
+    "translation": "настоящий, сущий",
+    "example": "The enthusiastic crowd was a veritable sea of people."
+  },
+  {
+    "date": "2025-06-14",
+    "word": "anachronism",
+    "pos": "существительное",
+    "translation": "анахронизм",
+    "example": "In today's digital world, a typewriter is an anachronism."
+  },
+  {
+    "date": "2025-06-15",
+    "word": "boisterous",
+    "pos": "прилагательное",
+    "translation": "шумный, буйный",
+    "example": "The boisterous children were running and shouting in the playground."
+  },
+  {
+    "date": "2025-06-16",
+    "word": "clandestine",
+    "pos": "прилагательное",
+    "translation": "тайный, подпольный",
+    "example": "They held a clandestine meeting to discuss their plans."
+  },
+  {
+    "date": "2025-06-17",
+    "word": "diffident",
+    "pos": "прилагательное",
+    "translation": "неуверенный, робкий",
+    "example": "She was diffident about expressing her opinions in public."
+  },
+  {
+    "date": "2025-06-18",
+    "word": "epistolary",
+    "pos": "прилагательное",
+    "translation": "эпистолярный (в письмах)",
+    "example": "The novel was written in an epistolary format, consisting of letters."
+  },
+  {
+    "date": "2025-06-19",
+    "word": "expedient",
+    "pos": "прилагательное",
+    "translation": "целесообразный, выгодный",
+    "example": "It was expedient to solve the problem quickly, even if not perfectly."
+  },
+  {
+    "date": "2025-06-20",
+    "word": "incumbent",
+    "pos": "существительное",
+    "translation": "должностное лицо",
+    "example": "The incumbent president is running for re-election."
+  },
+  {
+    "date": "2025-06-21",
+    "word": "itinerant",
+    "pos": "прилагательное",
+    "translation": "странствующий, бродячий",
+    "example": "The itinerant preacher traveled from town to town."
+  },
+  {
+    "date": "2025-06-22",
+    "word": "mercurial",
+    "pos": "прилагательное",
+    "translation": "непостоянный, переменчивый",
+    "example": "Her mercurial temperament made her unpredictable."
+  },
+  {
+    "date": "2025-06-23",
+    "word": "officious",
+    "pos": "прилагательное",
+    "translation": "назойливый, услужливый",
+    "example": "The officious security guard ordered everyone around."
+  },
+  {
+    "date": "2025-06-24",
+    "word": "platitude",
+    "pos": "существительное",
+    "translation": "банальность, избитая фраза",
+    "example": "His speech was filled with empty platitudes and clichés."
+  },
+  {
+    "date": "2025-06-25",
+    "word": "pulchritudinous",
+    "pos": "прилагательное",
+    "translation": "красивый, прекрасный",
+    "example": "The pulchritudinous landscape was breathtaking."
+  },
+  {
+    "date": "2025-06-26",
+    "word": "rapacious",
+    "pos": "прилагательное",
+    "translation": "хищный, жадный",
+    "example": "The rapacious company exploited its workers."
+  },
+  {
+    "date": "2025-06-27",
+    "word": "spendthrift",
+    "pos": "существительное",
+    "translation": "расточитель, транжира",
+    "example": "Her spendthrift habits left her with no savings."
+  },
+  {
+    "date": "2025-06-28",
+    "word": "surreptitious",
+    "pos": "прилагательное",
+    "translation": "тайный, скрытый",
+    "example": "She cast a surreptitious glance at her watch."
+  },
+  {
+    "date": "2025-06-29",
+    "word": "sobriety",
+    "pos": "существительное",
+    "translation": "трезвость, сдержанность",
+    "example": "He spoke with sobriety and common sense."
+  },
+  {
+    "date": "2025-06-30",
+    "word": "vicissitude",
+    "pos": "существительное",
+    "translation": "превратность, перемена",
+    "example": "They remained friends through all the vicissitudes of life."
+  },
+  {
+    "date": "2025-07-01",
+    "word": "amalgamate",
+    "pos": "глагол",
+    "translation": "объединять, сливать",
+    "example": "The two companies decided to amalgamate into a single corporation."
+  },
+  {
+    "date": "2025-07-02",
+    "word": "aberration",
+    "pos": "существительное",
+    "translation": "отклонение, аберрация",
+    "example": "The single poor grade on his report card was an aberration."
+  },
+  {
+    "date": "2025-07-03",
+    "word": "cajole",
+    "pos": "глагол",
+    "translation": "уговаривать, умасливать",
+    "example": "He managed to cajole his friends into helping him move."
+  },
+  {
+    "date": "2025-07-04",
+    "word": "demagogue",
+    "pos": "существительное",
+    "translation": "демагог",
+    "example": "The crowd was swayed by the fiery rhetoric of the demagogue."
+  },
+  {
+    "date": "2025-07-05",
+    "word": "egregious",
+    "pos": "прилагательное",
+    "translation": "вопиющий, ужасный",
+    "example": "It was an egregious error for a professional to make."
+  },
+  {
+    "date": "2025-07-06",
+    "word": "florid",
+    "pos": "прилагательное",
+    "translation": "витиеватый, цветистый",
+    "example": "His speech was filled with florid language and excessive praise."
+  },
+  {
+    "date": "2025-07-07",
+    "word": "impetuous",
+    "pos": "прилагательное",
+    "translation": "импульсивный, порывистый",
+    "example": "His impetuous decision to quit his job had serious consequences."
+  },
+  {
+    "date": "2025-07-08",
+    "word": "inimical",
+    "pos": "прилагательное",
+    "translation": "враждебный, неблагоприятный",
+    "example": "The new policies were inimical to the interests of the employees."
+  },
+  {
+    "date": "2025-07-09",
+    "word": "jejune",
+    "pos": "прилагательное",
+    "translation": "скучный, незрелый",
+    "example": "He found the conversation to be rather jejune and uninteresting."
+  },
+  {
+    "date": "2025-07-10",
+    "word": "moribund",
+    "pos": "прилагательное",
+    "translation": "умирающий, агонизирующий",
+    "example": "The moribund industry was struggling to survive."
+  },
+  {
+    "date": "2025-07-11",
+    "word": "obstreperous",
+    "pos": "прилагательное",
+    "translation": "шумный, буйный",
+    "example": "The obstreperous children were difficult to manage."
+  },
+  {
+    "date": "2025-07-12",
+    "word": "pertinacious",
+    "pos": "прилагательное",
+    "translation": "упорный, настойчивый",
+    "example": "He was a pertinacious salesman who would not take no for an answer."
+  },
+  {
+    "date": "2025-07-13",
+    "word": "profligate",
+    "pos": "прилагательное",
+    "translation": "расточительный, распутный",
+    "example": "The profligate king spent the country's treasury on lavish parties."
+  },
+  {
+    "date": "2025-07-14",
+    "word": "relegate",
+    "pos": "глагол",
+    "translation": "низводить, переводить в низший разряд",
+    "example": "He was relegated to a minor role in the company."
+  },
+  {
+    "date": "2025-07-15",
+    "word": "sanctimonious",
+    "pos": "прилагательное",
+    "translation": "ханжеский, лицемерный",
+    "example": "His sanctimonious speech about morality was hypocritical."
+  },
+  {
+    "date": "2025-07-16",
+    "word": "stolid",
+    "pos": "прилагательное",
+    "translation": "бесстрастный, невозмутимый",
+    "example": "He remained stolid and unemotional throughout the sad movie."
+  },
+  {
+    "date": "2025-07-17",
+    "word": "timorous",
+    "pos": "прилагательное",
+    "translation": "робкий, боязливый",
+    "example": "The timorous mouse scurried away from the cat."
+  },
+  {
+    "date": "2025-07-18",
+    "word": "vitriolic",
+    "pos": "прилагательное",
+    "translation": "едкий, язвительный",
+    "example": "The article was full of vitriolic attacks on the president."
+  },
+  {
+    "date": "2025-07-19",
+    "word": "vociferous",
+    "pos": "прилагательное",
+    "translation": "громкий, шумный",
+    "example": "He was a vociferous critic of the new law."
+  },
+  {
+    "date": "2025-07-20",
+    "word": "asperity",
+    "pos": "существительное",
+    "translation": "резкость, суровость",
+    "example": "She responded with asperity to the rude question."
+  },
+  {
+    "date": "2025-07-21",
+    "word": "capitulate",
+    "pos": "глагол",
+    "translation": "капитулировать, сдаваться",
+    "example": "The enemy forces were forced to capitulate."
+  },
+  {
+    "date": "2025-07-22",
+    "word": "desultory",
+    "pos": "прилагательное",
+    "translation": "беспорядочный, отрывочный",
+    "example": "He made a desultory attempt to clean his room."
+  },
+  {
+    "date": "2025-07-23",
+    "word": "execrable",
+    "pos": "прилагательное",
+    "translation": "отвратительный, мерзкий",
+    "example": "The food at the restaurant was execrable."
+  },
+  {
+    "date": "2025-07-24",
+    "word": "exigent",
+    "pos": "прилагательное",
+    "translation": "неотложный, срочный",
+    "example": "The exigent circumstances required immediate action."
+  },
+  {
+    "date": "2025-07-25",
+    "word": "expurgate",
+    "pos": "глагол",
+    "translation": "вычеркивать, исключать (непристойное)",
+    "example": "The editor decided to expurgate the offensive language from the book."
+  },
+  {
+    "date": "2025-07-26",
+    "word": "insouciant",
+    "pos": "прилагательное",
+    "translation": "беззаботный, беспечный",
+    "example": "She had an insouciant attitude towards her responsibilities."
+  },
+  {
+    "date": "2025-07-27",
+    "word": "inveterate",
+    "pos": "прилагательное",
+    "translation": "закоренелый, заядлый",
+    "example": "He is an inveterate gambler who cannot quit."
+  },
+  {
+    "date": "2025-07-28",
+    "word": "kowtow",
+    "pos": "глагол",
+    "translation": "пресмыкаться, низко кланяться",
+    "example": "He refused to kowtow to the demands of the dictator."
+  },
+  {
+    "date": "2025-07-29",
+    "word": "portent",
+    "pos": "существительное",
+    "translation": "предзнаменование, знамение",
+    "example": "The dark clouds were a portent of the coming storm."
+  },
+  {
+    "date": "2025-07-30",
+    "word": "redoubtable",
+    "pos": "прилагательное",
+    "translation": "грозный, внушительный",
+    "example": "He was a redoubtable opponent in the chess tournament."
+  },
+  {
+    "date": "2025-07-31",
+    "word": "surfeit",
+    "pos": "существительное",
+    "translation": "избыток, пресыщение",
+    "example": "There was a surfeit of food at the party."
+  },
+  {
+    "date": "2025-08-01",
+    "word": "turgid",
+    "pos": "прилагательное",
+    "translation": "напыщенный, высокопарный",
+    "example": "His writing style was turgid and difficult to understand."
+  },
+  {
+    "date": "2025-08-02",
+    "word": "abnegation",
+    "pos": "существительное",
+    "translation": "самоотречение",
+    "example": "The monk's life was one of abnegation and self-sacrifice."
+  },
+  {
+    "date": "2025-08-03",
+    "word": "belie",
+    "pos": "глагол",
+    "translation": "опровергать, давать неверное представление",
+    "example": "His calm demeanor seemed to belie the turmoil he was feeling."
+  },
+  {
+    "date": "2025-08-04",
+    "word": "concomitant",
+    "pos": "прилагательное",
+    "translation": "сопутствующий",
+    "example": "Fame has its concomitant pressures and loss of privacy."
+  },
+  {
+    "date": "2025-08-05",
+    "word": "credulous",
+    "pos": "прилагательное",
+    "translation": "доверчивый, легковерный",
+    "example": "The credulous tourist was easily fooled by the street vendor."
+  },
+  {
+    "date": "2025-08-06",
+    "word": "efficacious",
+    "pos": "прилагательное",
+    "translation": "эффективный, действенный",
+    "example": "The new medicine proved to be highly efficacious in treating the disease."
+  },
+  {
+    "date": "2025-08-07",
+    "word": "exorbitant",
+    "pos": "прилагательное",
+    "translation": "непомерный, завышенный",
+    "example": "The price of the ticket was exorbitant."
+  },
+  {
+    "date": "2025-08-08",
+    "word": "fractious",
+    "pos": "прилагательное",
+    "translation": "капризный, беспокойный",
+    "example": "The fractious child was always getting into arguments."
+  },
+  {
+    "date": "2025-08-09",
+    "word": "gauche",
+    "pos": "прилагательное",
+    "translation": "неуклюжий, неловкий",
+    "example": "His gauche behavior at the dinner party embarrassed everyone."
+  },
+  {
+    "date": "2025-08-10",
+    "word": "ignoble",
+    "pos": "прилагательное",
+    "translation": "низкий, постыдный",
+    "example": "His ignoble actions brought shame to his family."
+  },
+  {
+    "date": "2025-08-11",
+    "word": "indefatigable",
+    "pos": "прилагательное",
+    "translation": "неутомимый",
+    "example": "She was an indefatigable campaigner for human rights."
+  },
+  {
+    "date": "2025-08-12",
+    "word": "lassitude",
+    "pos": "существительное",
+    "translation": "усталость, апатия",
+    "example": "A feeling of lassitude washed over him after the long day's work."
+  },
+  {
+    "date": "2025-08-13",
+    "word": "nadir",
+    "pos": "существительное",
+    "translation": "надир, самая низкая точка",
+    "example": "The company reached its nadir during the economic recession."
+  },
+  {
+    "date": "2025-08-14",
+    "word": "panegyric",
+    "pos": "существительное",
+    "translation": "панегирик, хвалебная речь",
+    "example": "He delivered a panegyric on the achievements of the late president."
+  },
+  {
+    "date": "2025-08-15",
+    "word": "penchant",
+    "pos": "существительное",
+    "translation": "склонность, пристрастие",
+    "example": "She has a penchant for collecting antique jewelry."
+  },
+  {
+    "date": "2025-08-16",
+    "word": "plethora",
+    "pos": "существительное",
+    "translation": "изобилие, избыток",
+    "example": "There was a plethora of books to choose from in the library."
+  },
+  {
+    "date": "2025-08-17",
+    "word": "propinquity",
+    "pos": "существительное",
+    "translation": "близость (пространственная или временная)",
+    "example": "The propinquity of their houses made them close friends."
+  },
+  {
+    "date": "2025-08-18",
+    "word": "quaff",
+    "pos": "глагол",
+    "translation": "пить залпом, осушать",
+    "example": "He began to quaff the cold water after his long run."
+  },
+  {
+    "date": "2025-08-19",
+    "word": "recondite",
+    "pos": "прилагательное",
+    "translation": "непонятный, заумный",
+    "example": "He was reading a recondite book on philosophy."
+  },
+  {
+    "date": "2025-08-20",
+    "word": "sagacious",
+    "pos": "прилагательное",
+    "translation": "проницательный, мудрый",
+    "example": "The sagacious old man gave him wise advice."
+  },
+  {
+    "date": "2025-08-21",
+    "word": "scurrilous",
+    "pos": "прилагательное",
+    "translation": "оскорбительный, клеветнический",
+    "example": "The tabloid published a scurrilous story about the celebrity."
+  },
+  {
+    "date": "2025-08-22",
+    "word": "soporific",
+    "pos": "прилагательное",
+    "translation": "снотворный, усыпляющий",
+    "example": "The lecturer's monotonous voice had a soporific effect on the students."
+  },
+  {
+    "date": "2025-08-23",
+    "word": "sycophantic",
+    "pos": "прилагательное",
+    "translation": "подхалимский, льстивый",
+    "example": "She was tired of the sycophantic praise from her assistants."
+  },
+  {
+    "date": "2025-08-24",
+    "word": "temerity",
+    "pos": "существительное",
+    "translation": "безрассудство, опрометчивость",
+    "example": "He had the temerity to question the teacher's authority."
+  },
+  {
+    "date": "2025-08-25",
+    "word": "unwieldy",
+    "pos": "прилагательное",
+    "translation": "громоздкий, неуклюжий",
+    "example": "The unwieldy package was difficult to carry."
+  },
+  {
+    "date": "2025-08-26",
+    "word": "venal",
+    "pos": "прилагательное",
+    "translation": "продажный, коррумпированный",
+    "example": "The venal judge was known for accepting bribes."
+  },
+  {
+    "date": "2025-08-27",
+    "word": "virulent",
+    "pos": "прилагательное",
+    "translation": "ядовитый, злобный",
+    "example": "The virulent criticism from the opposition was relentless."
+  },
+  {
+    "date": "2025-08-28",
+    "word": "voluble",
+    "pos": "прилагательное",
+    "translation": "разговорчивый, словоохотливый",
+    "example": "The voluble tour guide talked nonstop for two hours."
+  },
+  {
+    "date": "2025-08-29",
+    "word": "wanton",
+    "pos": "прилагательное",
+    "translation": "бессмысленный, беспричинный",
+    "example": "The wanton destruction of the historical monument shocked everyone."
+  },
+  {
+    "date": "2025-08-30",
+    "word": "zephyr",
+    "pos": "существительное",
+    "translation": "зефир, легкий ветерок",
+    "example": "A gentle zephyr rustled the leaves in the trees."
+  },
+  {
+    "date": "2025-08-31",
+    "word": "toady",
+    "pos": "существительное",
+    "translation": "подхалим, льстец",
+    "example": "He is a toady to the boss, always agreeing with everything he says."
+  },
+  {
+    "date": "2025-09-01",
+    "word": "abstruse",
+    "pos": "прилагательное",
+    "translation": "заумный, трудный для понимания",
+    "example": "The professor's lecture was too abstruse for most of the students."
+  },
+  {
+    "date": "2025-09-02",
+    "word": "antipathy",
+    "pos": "существительное",
+    "translation": "антипатия, неприязнь",
+    "example": "He felt a strong antipathy towards his arrogant coworker."
+  },
+  {
+    "date": "2025-09-03",
+    "word": "apocryphal",
+    "pos": "прилагательное",
+    "translation": "апокрифический, недостоверный",
+    "example": "Most of the stories about the famous pirate are likely apocryphal."
+  },
+  {
+    "date": "2025-09-04",
+    "word": "arcane",
+    "pos": "прилагательное",
+    "translation": "тайный, загадочный",
+    "example": "The alchemist's notes were filled with arcane symbols and formulas."
+  },
+  {
+    "date": "2025-09-05",
+    "word": "ascetic",
+    "pos": "прилагательное",
+    "translation": "аскетический, отшельнический",
+    "example": "The monk lived a simple, ascetic life in the monastery."
+  },
+  {
+    "date": "2025-09-06",
+    "word": "candor",
+    "pos": "существительное",
+    "translation": "откровенность, прямота",
+    "example": "I appreciate your candor in this difficult situation."
+  },
+  {
+    "date": "2025-09-07",
+    "word": "conflagration",
+    "pos": "существительное",
+    "translation": "большой пожар",
+    "example": "The conflagration destroyed several buildings in the city center."
+  },
+  {
+    "date": "2025-09-08",
+    "word": "contrite",
+    "pos": "прилагательное",
+    "translation": "раскаивающийся, сокрушенный",
+    "example": "She was contrite and apologized for her mistake."
+  },
+  {
+    "date": "2025-09-09",
+    "word": "cupidity",
+    "pos": "существительное",
+    "translation": "алчность, жадность",
+    "example": "His cupidity led him to make risky and unethical investments."
+  },
+  {
+    "date": "2025-09-10",
+    "word": "dearth",
+    "pos": "существительное",
+    "translation": "нехватка, недостаток",
+    "example": "There is a dearth of qualified candidates for the job."
+  },
+  {
+    "date": "2025-09-11",
+    "word": "debacle",
+    "pos": "существительное",
+    "translation": "фиаско, провал",
+    "example": "The music festival turned into a complete debacle due to poor organization."
+  },
+  {
+    "date": "2025-09-12",
+    "word": "dissemble",
+    "pos": "глагол",
+    "translation": "лицемерить, притворяться",
+    "example": "He tried to dissemble his true feelings behind a smile."
+  },
+  {
+    "date": "2025-09-13",
+    "word": "endemic",
+    "pos": "прилагательное",
+    "translation": "эндемичный, свойственный данной местности",
+    "example": "This plant is endemic to a small island in the Pacific."
+  },
+  {
+    "date": "2025-09-14",
+    "word": "ersatz",
+    "pos": "прилагательное",
+    "translation": "эрзац, суррогатный",
+    "example": "They served ersatz coffee made from chicory root."
+  },
+  {
+    "date": "2025-09-15",
+    "word": "euphony",
+    "pos": "существительное",
+    "translation": "благозвучие, эвфония",
+    "example": "The poet's work is known for its beautiful euphony."
+  },
+  {
+    "date": "2025-09-16",
+    "word": "fecund",
+    "pos": "прилагательное",
+    "translation": "плодородный, плодовитый",
+    "example": "The fecund soil produced a bountiful harvest."
+  },
+  {
+    "date": "2025-09-17",
+    "word": "gamut",
+    "pos": "существительное",
+    "translation": "гамма, диапазон",
+    "example": "The actress displayed a wide gamut of emotions in her performance."
+  },
+  {
+    "date": "2025-09-18",
+    "word": "halcyon",
+    "pos": "прилагательное",
+    "translation": "безмятежный, спокойный",
+    "example": "She remembered the halcyon days of her childhood."
+  },
+  {
+    "date": "2025-09-19",
+    "word": "hiatus",
+    "pos": "существительное",
+    "translation": "перерыв, пауза",
+    "example": "The band is taking a long hiatus before their next album."
+  },
+  {
+    "date": "2025-09-20",
+    "word": "imbue",
+    "pos": "глагол",
+    "translation": "пропитывать, наполнять",
+    "example": "Her paintings are imbued with a sense of nostalgia."
+  },
+  {
+    "date": "2025-09-21",
+    "word": "impassive",
+    "pos": "прилагательное",
+    "translation": "бесстрастный, невозмутимый",
+    "example": "He remained impassive as the verdict was read."
+  },
+  {
+    "date": "2025-09-22",
+    "word": "inscrutable",
+    "pos": "прилагательное",
+    "translation": "непроницаемый, загадочный",
+    "example": "His expression was inscrutable, making it hard to know what he was thinking."
+  },
+  {
+    "date": "2025-09-23",
+    "word": "intrepid",
+    "pos": "прилагательное",
+    "translation": "бесстрашный, отважный",
+    "example": "The intrepid explorer ventured into the dense jungle."
+  },
+  {
+    "date": "2025-09-24",
+    "word": "irascible",
+    "pos": "прилагательное",
+    "translation": "вспыльчивый, раздражительный",
+    "example": "The irascible old man shouted at anyone who disturbed him."
+  },
+  {
+    "date": "2025-09-25",
+    "word": "libertine",
+    "pos": "существительное",
+    "translation": "распутник, вольнодумец",
+    "example": "He gained a reputation as a wealthy libertine."
+  },
+  {
+    "date": "2025-09-26",
+    "word": "loquacious",
+    "pos": "прилагательное",
+    "translation": "разговорчивый, болтливый",
+    "example": "The loquacious guide knew every story about the city."
+  },
+  {
+    "date": "2025-09-27",
+    "word": "mawkish",
+    "pos": "прилагательное",
+    "translation": "приторный, сентиментальный",
+    "example": "The mawkish love story was too sentimental for my taste."
+  },
+  {
+    "date": "2025-09-28",
+    "word": "modicum",
+    "pos": "существительное",
+    "translation": "толика, малая часть",
+    "example": "Even a modicum of common sense would have prevented the accident."
+  },
+  {
+    "date": "2025-09-29",
+    "word": "multifarious",
+    "pos": "прилагательное",
+    "translation": "многообразный, разносторонний",
+    "example": "New York is a multifarious city with a diverse population."
+  },
+  {
+    "date": "2025-09-30",
+    "word": "neophyte",
+    "pos": "существительное",
+    "translation": "неофит, новичок",
+    "example": "As a neophyte in the world of programming, he had much to learn."
+  },
+  {
+    "date": "2025-10-01",
+    "word": "obviate",
+    "pos": "глагол",
+    "translation": "устранять, избегать",
+    "example": "Good planning can obviate many potential problems."
+  },
+  {
+    "date": "2025-10-02",
+    "word": "odium",
+    "pos": "существительное",
+    "translation": "ненависть, отвращение",
+    "example": "His betrayal earned him the odium of his former colleagues."
+  },
+  {
+    "date": "2025-10-03",
+    "word": "pastiche",
+    "pos": "существительное",
+    "translation": "пастиш, стилизация",
+    "example": "The film was a pastiche of old detective movies."
+  },
+  {
+    "date": "2025-10-04",
+    "word": "perfunctory",
+    "pos": "прилагательное",
+    "translation": "поверхностный, небрежный",
+    "example": "He gave a perfunctory nod as a greeting."
+  },
+  {
+    "date": "2025-10-05",
+    "word": "probity",
+    "pos": "существительное",
+    "translation": "честность, неподкупность",
+    "example": "The judge was known for his unwavering probity."
+  },
+  {
+    "date": "2025-10-06",
+    "word": "puerile",
+    "pos": "прилагательное",
+    "translation": "ребяческий, незрелый",
+    "example": "His puerile jokes were not appropriate for the serious meeting."
+  },
+  {
+    "date": "2025-10-07",
+    "word": "putrefy",
+    "pos": "глагол",
+    "translation": "гнить, разлагаться",
+    "example": "The food began to putrefy in the hot weather."
+  },
+  {
+    "date": "2025-10-08",
+    "word": "quotidian",
+    "pos": "прилагательное",
+    "translation": "ежедневный, будничный",
+    "example": "She was tired of the quotidian routine of her life."
+  },
+  {
+    "date": "2025-10-09",
+    "word": "recant",
+    "pos": "глагол",
+    "translation": "отрекаться, отказываться от своих слов",
+    "example": "The witness was forced to recant her testimony."
+  },
+  {
+    "date": "2025-10-10",
+    "word": "ribald",
+    "pos": "прилагательное",
+    "translation": "непристойный, грубый",
+    "example": "The play was full of ribald humor."
+  },
+  {
+    "date": "2025-10-11",
+    "word": "sedulous",
+    "pos": "прилагательное",
+    "translation": "усердный, прилежный",
+    "example": "The sedulous student achieved top marks."
+  },
+  {
+    "date": "2025-10-12",
+    "word": "stoic",
+    "pos": "прилагательное",
+    "translation": "стоический, невозмутимый",
+    "example": "He remained stoic despite the immense pain."
+  },
+  {
+    "date": "2025-10-13",
+    "word": "sundry",
+    "pos": "прилагательное",
+    "translation": "различный, разный",
+    "example": "The shop sold sundry items, from hardware to groceries."
+  },
+  {
+    "date": "2025-10-14",
+    "word": "tawdry",
+    "pos": "прилагательное",
+    "translation": "безвкусный, дешевый",
+    "example": "She wore tawdry jewelry that looked cheap."
+  },
+  {
+    "date": "2025-10-15",
+    "word": "terse",
+    "pos": "прилагательное",
+    "translation": "краткий, сжатый",
+    "example": "He gave a terse reply to the long question."
+  },
+  {
+    "date": "2025-10-16",
+    "word": "travesty",
+    "pos": "существительное",
+    "translation": "пародия, насмешка",
+    "example": "The trial was a travesty of justice."
+  },
+  {
+    "date": "2025-10-17",
+    "word": "uncouth",
+    "pos": "прилагательное",
+    "translation": "неотесанный, грубый",
+    "example": "His uncouth manners shocked the other guests."
+  },
+  {
+    "date": "2025-10-18",
+    "word": "variegated",
+    "pos": "прилагательное",
+    "translation": "пестрый, разноцветный",
+    "example": "The variegated leaves of the plant were beautiful."
+  },
+  {
+    "date": "2025-10-19",
+    "word": "vestige",
+    "pos": "существительное",
+    "translation": "след, остаток",
+    "example": "Not a vestige of the ancient city remained."
+  },
+  {
+    "date": "2025-10-20",
+    "word": "viable",
+    "pos": "прилагательное",
+    "translation": "жизнеспособный, реальный",
+    "example": "The committee is looking for a viable solution to the problem."
+  },
+  {
+    "date": "2025-10-21",
+    "word": "waver",
+    "pos": "глагол",
+    "translation": "колебаться, сомневаться",
+    "example": "His determination began to waver in the face of adversity."
+  },
+  {
+    "date": "2025-10-22",
+    "word": "abhor",
+    "pos": "глагол",
+    "translation": "ненавидеть, питать отвращение",
+    "example": "I abhor all forms of cruelty and injustice."
+  },
+  {
+    "date": "2025-10-23",
+    "word": "acme",
+    "pos": "существительное",
+    "translation": "вершина, высшая точка",
+    "example": "The acme of his career was winning the championship."
+  },
+  {
+    "date": "2025-10-24",
+    "word": "anathema",
+    "pos": "существительное",
+    "translation": "анафема, проклятие",
+    "example": "Racial prejudice is an anathema to our society."
+  },
+  {
+    "date": "2025-10-25",
+    "word": "balk",
+    "pos": "глагол",
+    "translation": "препятствовать, упираться",
+    "example": "He balked at the idea of investing so much money."
+  },
+  {
+    "date": "2025-10-26",
+    "word": "catalyst",
+    "pos": "существительное",
+    "translation": "катализатор, стимул",
+    "example": "The new invention was a catalyst for major changes in the industry."
+  },
+  {
+    "date": "2025-10-27",
+    "word": "churlish",
+    "pos": "прилагательное",
+    "translation": "грубый, неучтивый",
+    "example": "It would be churlish to refuse his generous offer."
+  },
+  {
+    "date": "2025-10-28",
+    "word": "delineate",
+    "pos": "глагол",
+    "translation": "очерчивать, обрисовывать",
+    "example": "The report clearly delineates the project's goals."
+  },
+  {
+    "date": "2025-10-29",
+    "word": "deprecate",
+    "pos": "глагол",
+    "translation": "возражать, осуждать",
+    "example": "He tends to deprecate his own achievements."
+  },
+  {
+    "date": "2025-10-30",
+    "word": "effulgent",
+    "pos": "прилагательное",
+    "translation": "сияющий, лучезарный",
+    "example": "The effulgent sunset painted the sky with brilliant colors."
+  },
+  {
+    "date": "2025-10-31",
+    "word": "emollient",
+    "pos": "прилагательное",
+    "translation": "смягчающий",
+    "example": "She used an emollient cream for her dry skin."
+  },
+  {
+    "date": "2025-11-01",
+    "word": "facile",
+    "pos": "прилагательное",
+    "translation": "поверхностный, легкий",
+    "example": "His facile solution to the complex problem was not convincing."
+  },
+  {
+    "date": "2025-11-02",
+    "word": "abeyance",
+    "pos": "существительное",
+    "translation": "состояние неопределённости, временное прекращение",
+    "example": "The project was held in abeyance until the funding was secured."
+  },
+  {
+    "date": "2025-11-03",
+    "word": "austere",
+    "pos": "прилагательное",
+    "translation": "суровый, строгий, аскетичный",
+    "example": "The monk lived an austere life, with few possessions."
+  },
+  {
+    "date": "2025-11-04",
+    "word": "blight",
+    "pos": "существительное",
+    "translation": "упадок, пагубное влияние",
+    "example": "The potato blight caused a widespread famine."
+  },
+  {
+    "date": "2025-11-05",
+    "word": "cacophony",
+    "pos": "существительное",
+    "translation": "какофония, неблагозвучие",
+    "example": "The cacophony of city traffic was overwhelming."
+  },
+  {
+    "date": "2025-11-06",
+    "word": "chastise",
+    "pos": "глагол",
+    "translation": "наказывать, бичевать",
+    "example": "The coach would chastise players for being late to practice."
+  },
+  {
+    "date": "2025-11-07",
+    "word": "coalesce",
+    "pos": "глагол",
+    "translation": "объединяться, сливаться",
+    "example": "The small groups of protesters began to coalesce into a single large crowd."
+  },
+  {
+    "date": "2025-11-08",
+    "word": "compunction",
+    "pos": "существительное",
+    "translation": "угрызение совести, сожаление",
+    "example": "He felt no compunction about telling a lie to save himself."
+  },
+  {
+    "date": "2025-11-09",
+    "word": "crestfallen",
+    "pos": "прилагательное",
+    "translation": "удрученный, павший духом",
+    "example": "She was crestfallen after failing her final exam."
+  },
+  {
+    "date": "2025-11-10",
+    "word": "defunct",
+    "pos": "прилагательное",
+    "translation": "несуществующий, вышедший из употребления",
+    "example": "The defunct railway line is now a popular walking trail."
+  },
+  {
+    "date": "2025-11-11",
+    "word": "demur",
+    "pos": "глагол",
+    "translation": "возражать, колебаться",
+    "example": "She did not demur when he offered to pay for dinner."
+  },
+  {
+    "date": "2025-11-12",
+    "word": "diatribe",
+    "pos": "существительное",
+    "translation": "диатриба, гневная критика",
+    "example": "He launched into a long diatribe against the new policies."
+  },
+  {
+    "date": "2025-11-13",
+    "word": "disparate",
+    "pos": "прилагательное",
+    "translation": "разрозненный, несопоставимый",
+    "example": "The report combined data from several disparate sources."
+  },
+  {
+    "date": "2025-11-14",
+    "word": "dogmatic",
+    "pos": "прилагательное",
+    "translation": "догматичный, не терпящий возражений",
+    "example": "He is too dogmatic to listen to anyone else's opinion."
+  },
+  {
+    "date": "2025-11-15",
+    "word": "eclectic",
+    "pos": "прилагательное",
+    "translation": "эклектичный, разносторонний",
+    "example": "Her taste in music is very eclectic, ranging from classical to hip-hop."
+  },
+  {
+    "date": "2025-11-16",
+    "word": "equivocate",
+    "pos": "глагол",
+    "translation": "увиливать, говорить двусмысленно",
+    "example": "When asked about his plans, the politician began to equivocate."
+  },
+  {
+    "date": "2025-11-17",
+    "word": "erudite",
+    "pos": "прилагательное",
+    "translation": "эрудированный, начитанный",
+    "example": "The erudite professor could speak five languages."
+  },
+  {
+    "date": "2025-11-18",
+    "word": "euphemism",
+    "pos": "существительное",
+    "translation": "эвфемизм",
+    "example": "'Passed away' is a euphemism for 'died'."
+  },
+  {
+    "date": "2025-11-19",
+    "word": "extant",
+    "pos": "прилагательное",
+    "translation": "сохранившийся, существующий",
+    "example": "Few copies of the manuscript are still extant."
+  },
+  {
+    "date": "2025-11-20",
+    "word": "fawn",
+    "pos": "глагол",
+    "translation": "подлизываться, лебезить",
+    "example": "The assistants were always fawning over the celebrity."
+  },
+  {
+    "date": "2025-11-21",
+    "word": "fervid",
+    "pos": "прилагательное",
+    "translation": "пылкий, горячий",
+    "example": "He gave a fervid speech in support of his candidate."
+  },
+  {
+    "date": "2025-11-22",
+    "word": "flag",
+    "pos": "глагол",
+    "translation": "ослабевать, увядать",
+    "example": "Their enthusiasm began to flag after hours of work."
+  },
+  {
+    "date": "2025-11-23",
+    "word": "fledgling",
+    "pos": "существительное",
+    "translation": "новичок, неопытный",
+    "example": "The fledgling company struggled to compete with established giants."
+  },
+  {
+    "date": "2025-11-24",
+    "word": "guileless",
+    "pos": "прилагательное",
+    "translation": "простодушный, бесхитростный",
+    "example": "She had a guileless smile that made everyone trust her."
+  },
+  {
+    "date": "2025-11-25",
+    "word": "gullible",
+    "pos": "прилагательное",
+    "translation": "доверчивый, легковерный",
+    "example": "The gullible man believed the story about winning the lottery."
+  },
+  {
+    "date": "2025-11-26",
+    "word": "heterogeneous",
+    "pos": "прилагательное",
+    "translation": "разнородный, неоднородный",
+    "example": "The classroom was made up of a heterogeneous group of students."
+  },
+  {
+    "date": "2025-11-27",
+    "word": "hoary",
+    "pos": "прилагательное",
+    "translation": "древний, седой",
+    "example": "He told a hoary old joke that nobody found funny."
+  },
+  {
+    "date": "2025-11-28",
+    "word": "hyperbole",
+    "pos": "существительное",
+    "translation": "гипербола, преувеличение",
+    "example": "'I'm so hungry I could eat a horse' is an example of hyperbole."
+  },
+  {
+    "date": "2025-11-29",
+    "word": "idiosyncrasy",
+    "pos": "существительное",
+    "translation": "своеобразие, идиосинкразия",
+    "example": "One of his idiosyncrasies was wearing mismatched socks."
+  },
+  {
+    "date": "2025-11-30",
+    "word": "imminent",
+    "pos": "прилагательное",
+    "translation": "неизбежный, надвигающийся",
+    "example": "The dark clouds suggested that a storm was imminent."
+  },
+  {
+    "date": "2025-12-01",
+    "word": "immutable",
+    "pos": "прилагательное",
+    "translation": "неизменный, непреложный",
+    "example": "The laws of physics are considered immutable."
+  },
+  {
+    "date": "2025-12-02",
+    "word": "impede",
+    "pos": "глагол",
+    "translation": "препятствовать, мешать",
+    "example": "The bad weather will impede our progress."
+  },
+  {
+    "date": "2025-12-03",
+    "word": "imperious",
+    "pos": "прилагательное",
+    "translation": "повелительный, властный",
+    "example": "She had an imperious manner and expected everyone to obey her."
+  },
+  {
+    "date": "2025-12-04",
+    "word": "imperturbable",
+    "pos": "прилагательное",
+    "translation": "невозмутимый, спокойный",
+    "example": "He remained imperturbable even in the face of chaos."
+  },
+  {
+    "date": "2025-12-05",
+    "word": "implacable",
+    "pos": "прилагательное",
+    "translation": "неумолимый, непримиримый",
+    "example": "He was an implacable enemy who would never forgive."
+  },
+  {
+    "date": "2025-12-06",
+    "word": "impugn",
+    "pos": "глагол",
+    "translation": "оспаривать, подвергать сомнению",
+    "example": "It is unfair to impugn someone's character without evidence."
+  },
+  {
+    "date": "2025-12-07",
+    "word": "incipient",
+    "pos": "прилагательное",
+    "translation": "зарождающийся, начальный",
+    "example": "He noticed the incipient signs of a cold."
+  },
+  {
+    "date": "2025-12-08",
+    "word": "incongruous",
+    "pos": "прилагательное",
+    "translation": "неуместный, несоответствующий",
+    "example": "The modern furniture looked incongruous in the old castle."
+  },
+  {
+    "date": "2025-12-09",
+    "word": "indolent",
+    "pos": "прилагательное",
+    "translation": "ленивый, праздный",
+    "example": "The indolent cat slept all day."
+  },
+  {
+    "date": "2025-12-10",
+    "word": "inert",
+    "pos": "прилагательное",
+    "translation": "инертный, бездеятельный",
+    "example": "He lay inert on the sofa, watching television."
+  },
+  {
+    "date": "2025-12-11",
+    "word": "ingenuous",
+    "pos": "прилагательное",
+    "translation": "простодушный, искренний",
+    "example": "Her ingenuous question revealed her lack of experience."
+  },
+  {
+    "date": "2025-12-12",
+    "word": "innocuous",
+    "pos": "прилагательное",
+    "translation": "безвредный, безобидный",
+    "example": "It was an innocuous-looking spider, but it was venomous."
+  },
+  {
+    "date": "2025-12-13",
+    "word": "insularity",
+    "pos": "существительное",
+    "translation": "замкнутость, ограниченность",
+    "example": "The insularity of the small town made it resistant to change."
+  },
+  {
+    "date": "2025-12-14",
+    "word": "inured",
+    "pos": "прилагательное",
+    "translation": "привыкший, закаленный",
+    "example": "The soldiers were inured to the harsh conditions."
+  },
+  {
+    "date": "2025-12-15",
+    "word": "invidious",
+    "pos": "прилагательное",
+    "translation": "оскорбительный, враждебный",
+    "example": "Making invidious comparisons between siblings is unwise."
+  },
+  {
+    "date": "2025-12-16",
+    "word": "itinerary",
+    "pos": "существительное",
+    "translation": "маршрут, план поездки",
+    "example": "Our itinerary includes visits to Paris, Rome, and Athens."
+  },
+  {
+    "date": "2025-12-17",
+    "word": "laconic",
+    "pos": "прилагательное",
+    "translation": "лаконичный, краткий",
+    "example": "His laconic reply of 'yes' was all the confirmation we needed."
+  },
+  {
+    "date": "2025-12-18",
+    "word": "lambaste",
+    "pos": "глагол",
+    "translation": "резко критиковать, ругать",
+    "example": "The critics decided to lambaste the new movie."
+  },
+  {
+    "date": "2025-12-19",
+    "word": "malinger",
+    "pos": "глагол",
+    "translation": "симулировать, притворяться больным",
+    "example": "He was suspected of malingering to avoid work."
+  },
+  {
+    "date": "2025-12-20",
+    "word": "maverick",
+    "pos": "существительное",
+    "translation": "индивидуалист, диссидент",
+    "example": "He was a maverick who challenged the established norms of his party."
+  },
+  {
+    "date": "2025-12-21",
+    "word": "mitigate",
+    "pos": "глагол",
+    "translation": "смягчать, уменьшать",
+    "example": "The government took steps to mitigate the effects of the crisis."
+  },
+  {
+    "date": "2025-12-22",
+    "word": "mollify",
+    "pos": "глагол",
+    "translation": "смягчать, успокаивать",
+    "example": "He tried to mollify the angry customer with an apology."
+  },
+  {
+    "date": "2025-12-23",
+    "word": "morose",
+    "pos": "прилагательное",
+    "translation": "угрюмый, мрачный",
+    "example": "He became morose and withdrawn after his defeat."
+  },
+  {
+    "date": "2025-12-24",
+    "word": "mundane",
+    "pos": "прилагательное",
+    "translation": "обыденный, приземленный",
+    "example": "She was tired of her mundane, everyday routine."
+  },
+  {
+    "date": "2025-12-25",
+    "word": "naivete",
+    "pos": "существительное",
+    "translation": "наивность, простодушие",
+    "example": "His naivete was charming but sometimes got him into trouble."
+  },
+  {
+    "date": "2025-12-26",
+    "word": "obtuse",
+    "pos": "прилагательное",
+    "translation": "тупой, несообразительный",
+    "example": "He was too obtuse to understand the subtle hint."
+  },
+  {
+    "date": "2025-12-27",
+    "word": "occlude",
+    "pos": "глагол",
+    "translation": "закупоривать, перекрывать",
+    "example": "A blood clot can occlude a major artery."
+  },
+  {
+    "date": "2025-12-28",
+    "word": "onerous",
+    "pos": "прилагательное",
+    "translation": "обременительный, тягостный",
+    "example": "The interns were given the onerous task of sorting thousands of files."
+  },
+  {
+    "date": "2025-12-29",
+    "word": "opprobrium",
+    "pos": "существительное",
+    "translation": "позор, бесчестье",
+    "example": "The scandal brought opprobrium upon the entire organization."
+  },
+  {
+    "date": "2025-12-30",
+    "word": "ossify",
+    "pos": "глагол",
+    "translation": "костенеть, затвердевать",
+    "example": "Our political system has started to ossify."
+  },
+  {
+    "date": "2025-12-31",
+    "word": "palpable",
+    "pos": "прилагательное",
+    "translation": "ощутимый, осязаемый",
+    "example": "There was a palpable sense of tension in the room."
+  },
+  {
+    "date": "2026-01-01",
+    "word": "gargantuan",
+    "pos": "прилагательное",
+    "translation": "гигантский, огромный",
+    "example": "It was a gargantuan task to clean up after the festival."
+  }
+]

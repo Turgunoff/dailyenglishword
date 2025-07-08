@@ -1,0 +1,2564 @@
+[
+  {
+    "date": "2025-01-01",
+    "word": "advocate",
+    "pos": "fe'l",
+    "translation": "himoya qilmoq",
+    "example": "She advocates for a more inclusive and equitable education system."
+  },
+  {
+    "date": "2025-01-02",
+    "word": "benevolent",
+    "pos": "sifat",
+    "translation": "mehribon",
+    "example": "The benevolent leader donated millions to rebuild the war-torn villages."
+  },
+  {
+    "date": "2025-01-03",
+    "word": "diligent",
+    "pos": "sifat",
+    "translation": "tirishqoq",
+    "example": "He remained diligent in his research, uncovering patterns others had missed."
+  },
+  {
+    "date": "2025-01-04",
+    "word": "scrutinize",
+    "pos": "fe'l",
+    "translation": "diqqat bilan tekshirmoq",
+    "example": "The investigator scrutinized every document to find inconsistencies."
+  },
+  {
+    "date": "2025-01-05",
+    "word": "meticulous",
+    "pos": "sifat",
+    "translation": "ehtiyotkor",
+    "example": "Her meticulous attention to detail made her the best editor in the firm."
+  },
+  {
+    "date": "2025-01-06",
+    "word": "resilient",
+    "pos": "sifat",
+    "translation": "chidamli",
+    "example": "Children are often more resilient than we expect, adapting to changes quickly."
+  },
+  {
+    "date": "2025-01-07",
+    "word": "elaborate",
+    "pos": "fe'l",
+    "translation": "batafsil tushuntirmoq",
+    "example": "Can you elaborate on your theory regarding quantum entanglement?"
+  },
+  {
+    "date": "2025-01-08",
+    "word": "scramble",
+    "pos": "fe'l",
+    "translation": "shoshilinch harakat qilmoq",
+    "example": "The team scrambled to meet the tight deadline after the delay."
+  },
+  {
+    "date": "2025-01-09",
+    "word": "ambiguous",
+    "pos": "sifat",
+    "translation": "noaniq",
+    "example": "His statement was ambiguous, leaving everyone confused about his intentions."
+  },
+  {
+    "date": "2025-01-10",
+    "word": "contemplate",
+    "pos": "fe'l",
+    "translation": "mulohaza qilmoq",
+    "example": "She sat quietly by the lake, contemplating the meaning of her dreams."
+  },
+  {
+    "date": "2025-01-11",
+    "word": "impeccable",
+    "pos": "sifat",
+    "translation": "nuqsonsiz",
+    "example": "He is known for his impeccable manners and elegant taste."
+  },
+  {
+    "date": "2025-01-12",
+    "word": "alleviate",
+    "pos": "fe'l",
+    "translation": "yengillashtirmoq",
+    "example": "This medicine can help alleviate the pain without major side effects."
+  },
+  {
+    "date": "2025-01-13",
+    "word": "vibrant",
+    "pos": "sifat",
+    "translation": "jonli, rang-barang",
+    "example": "The artist used vibrant colors to depict the energy of the city."
+  },
+  {
+    "date": "2025-01-14",
+    "word": "feasible",
+    "pos": "sifat",
+    "translation": "mumkin, amalga oshadigan",
+    "example": "Launching a startup with limited funds is challenging but feasible."
+  },
+  {
+    "date": "2025-01-15",
+    "word": "candid",
+    "pos": "sifat",
+    "translation": "ochiqchasiga, samimiy",
+    "example": "She gave a candid account of her experience working abroad."
+  },
+  {
+    "date": "2025-01-16",
+    "word": "inevitable",
+    "pos": "sifat",
+    "translation": "muqarrar",
+    "example": "Change is inevitable in any rapidly evolving industry."
+  },
+  {
+    "date": "2025-01-17",
+    "word": "articulate",
+    "pos": "fe'l",
+    "translation": "aniq ifodalamoq",
+    "example": "He struggled to articulate his thoughts under pressure."
+  },
+  {
+    "date": "2025-01-18",
+    "word": "integrity",
+    "pos": "ot",
+    "translation": "halollik",
+    "example": "Her integrity was never questioned even in the toughest circumstances."
+  },
+  {
+    "date": "2025-01-19",
+    "word": "lucid",
+    "pos": "sifat",
+    "translation": "aniq, tushunarli",
+    "example": "His writing is lucid and accessible, even to non-experts."
+  },
+  {
+    "date": "2025-01-20",
+    "word": "versatile",
+    "pos": "sifat",
+    "translation": "ko‘p qirrali",
+    "example": "The actor is incredibly versatile, seamlessly shifting between roles."
+  },
+  {
+    "date": "2025-01-21",
+    "word": "scrupulous",
+    "pos": "sifat",
+    "translation": "vijdonli, halol",
+    "example": "She is scrupulous in ensuring that all records are accurate."
+  },
+  {
+    "date": "2025-01-22",
+    "word": "magnanimous",
+    "pos": "sifat",
+    "translation": "olijanob",
+    "example": "Despite the insult, he remained magnanimous and forgave them all."
+  },
+  {
+    "date": "2025-01-23",
+    "word": "perplexed",
+    "pos": "sifat",
+    "translation": "hayron, gangigan",
+    "example": "He looked perplexed after hearing the unexpected announcement."
+  },
+  {
+    "date": "2025-01-24",
+    "word": "substantiate",
+    "pos": "fe'l",
+    "translation": "asoslab bermoq",
+    "example": "You must substantiate your claim with credible evidence."
+  },
+  {
+    "date": "2025-01-25",
+    "word": "conundrum",
+    "pos": "ot",
+    "translation": "qiyin muammo",
+    "example": "They faced a legal conundrum that lacked precedent."
+  },
+  {
+    "date": "2025-01-26",
+    "word": "arduous",
+    "pos": "sifat",
+    "translation": "mashaqqatli",
+    "example": "Climbing the mountain was an arduous but rewarding journey."
+  },
+  {
+    "date": "2025-01-27",
+    "word": "juxtapose",
+    "pos": "fe'l",
+    "translation": "yonma-yon qo‘ymoq",
+    "example": "The artist juxtaposed modern and traditional elements in her work."
+  },
+  {
+    "date": "2025-01-28",
+    "word": "ephemeral",
+    "pos": "sifat",
+    "translation": "o‘tkinchi",
+    "example": "Fame can be ephemeral in the age of social media."
+  },
+  {
+    "date": "2025-01-29",
+    "word": "formidable",
+    "pos": "sifat",
+    "translation": "qo‘rqinchli, ulkan",
+    "example": "She is a formidable opponent with years of experience."
+  },
+  {
+    "date": "2025-01-30",
+    "word": "zealous",
+    "pos": "sifat",
+    "translation": "g‘ayratli",
+    "example": "He is a zealous supporter of environmental conservation."
+  },
+  {
+    "date": "2025-01-31",
+    "word": "tangible",
+    "pos": "sifat",
+    "translation": "aniq, seziladigan",
+    "example": "The project yielded tangible results within months."
+  },
+  {
+    "date": "2025-02-01",
+    "word": "advocate",
+    "pos": "fe'l",
+    "translation": "himoya qilmoq",
+    "example": "She advocates for a more inclusive and equitable education system."
+  },
+  {
+    "date": "2025-02-02",
+    "word": "pragmatic",
+    "pos": "sifat",
+    "translation": "amaliy, natijaga yo'naltirilgan",
+    "example": "Her pragmatic approach to problem-solving was highly effective."
+  },
+  {
+    "date": "2025-02-03",
+    "word": "ubiquitous",
+    "pos": "sifat",
+    "translation": "keng tarqalgan",
+    "example": "Smartphones have become ubiquitous in modern society."
+  },
+  {
+    "date": "2025-02-04",
+    "word": "fortitude",
+    "pos": "ot",
+    "translation": "matonat, iroda kuchi",
+    "example": "She showed great fortitude during her long illness."
+  },
+  {
+    "date": "2025-02-05",
+    "word": "eloquent",
+    "pos": "sifat",
+    "translation": "so'zga boy, notiq",
+    "example": "His eloquent speech moved everyone in the audience."
+  },
+  {
+    "date": "2025-02-06",
+    "word": "anomaly",
+    "pos": "ot",
+    "translation": "anomaliya, normadan chetlanish",
+    "example": "The sudden spike in the data was considered an anomaly."
+  },
+  {
+    "date": "2025-02-07",
+    "word": "superfluous",
+    "pos": "sifat",
+    "translation": "ortiqcha, keraksiz",
+    "example": "Please remove all the superfluous details from the report."
+  },
+  {
+    "date": "2025-02-08",
+    "word": "gregarious",
+    "pos": "sifat",
+    "translation": "kirishimli, odamovi",
+    "example": "He is a gregarious person who enjoys being in large groups."
+  },
+  {
+    "date": "2025-02-09",
+    "word": "obfuscate",
+    "pos": "fe'l",
+    "translation": "chalg'itmoq, noaniq qilmoq",
+    "example": "The politician tried to obfuscate the issue with irrelevant facts."
+  },
+  {
+    "date": "2025-02-10",
+    "word": "tenacious",
+    "pos": "sifat",
+    "translation": "qat'iyatli, tirishqoq",
+    "example": "Her tenacious grip on the rope saved her from falling."
+  },
+  {
+    "date": "2025-02-11",
+    "word": "epiphany",
+    "pos": "ot",
+    "translation": "xayolga kelgan yorqin fikr",
+    "example": "He had an epiphany that a simple change could solve the entire problem."
+  },
+  {
+    "date": "2025-02-12",
+    "word": "taciturn",
+    "pos": "sifat",
+    "translation": "kamgap, indamas",
+    "example": "The new employee was taciturn and rarely spoke to his colleagues."
+  },
+  {
+    "date": "2025-02-13",
+    "word": "quixotic",
+    "pos": "sifat",
+    "translation": "xayolparast, idealistik",
+    "example": "His quixotic plan to end world hunger was admirable but impractical."
+  },
+  {
+    "date": "2025-02-14",
+    "word": "myriad",
+    "pos": "sifat",
+    "translation": "behison, son-sanoqsiz",
+    "example": "The city offers a myriad of entertainment options for tourists."
+  },
+  {
+    "date": "2025-02-15",
+    "word": "pensive",
+    "pos": "sifat",
+    "translation": "o'ychan, xayolchan",
+    "example": "She looked pensive as she stared out the window."
+  },
+  {
+    "date": "2025-02-16",
+    "word": "truncate",
+    "pos": "fe'l",
+    "translation": "qisqartirmoq, kesmoq",
+    "example": "The article was truncated to fit on a single page."
+  },
+  {
+    "date": "2025-02-17",
+    "word": "lethargic",
+    "pos": "sifat",
+    "translation": "lohas, holsiz",
+    "example": "The hot weather made everyone feel lethargic."
+  },
+  {
+    "date": "2025-02-18",
+    "word": "acumen",
+    "pos": "ot",
+    "translation": "o'tkir zehn, farosat",
+    "example": "Her business acumen helped the company succeed."
+  },
+  {
+    "date": "2025-02-19",
+    "word": "capricious",
+    "pos": "sifat",
+    "translation": "o'zgaruvchan, injiq",
+    "example": "The weather in this region is notoriously capricious."
+  },
+  {
+    "date": "2025-02-20",
+    "word": "garrulous",
+    "pos": "sifat",
+    "translation": "sergap, vaysaqi",
+    "example": "The garrulous taxi driver talked throughout the entire journey."
+  },
+  {
+    "date": "2025-02-21",
+    "word": "prudent",
+    "pos": "sifat",
+    "translation": "oqil, ehtiyotkor",
+    "example": "Making prudent investments is key to long-term financial security."
+  },
+  {
+    "date": "2025-02-22",
+    "word": "novice",
+    "pos": "ot",
+    "translation": "yangi o'rganuvchi",
+    "example": "As a novice chess player, he still had much to learn."
+  },
+  {
+    "date": "2025-02-23",
+    "word": "ostentatious",
+    "pos": "sifat",
+    "translation": "dabdabali, maqtanchoq",
+    "example": "He bought an ostentatious car to show off his wealth."
+  },
+  {
+    "date": "2025-02-24",
+    "word": "reclusive",
+    "pos": "sifat",
+    "translation": "zohid, odamovi",
+    "example": "The famous author became reclusive and avoided public appearances."
+  },
+  {
+    "date": "2025-02-25",
+    "word": "serendipity",
+    "pos": "ot",
+    "translation": "kutilmagan baxtli topilma",
+    "example": "Finding that rare book in a small shop was pure serendipity."
+  },
+  {
+    "date": "2025-02-26",
+    "word": "voracious",
+    "pos": "sifat",
+    "translation": "ochofat, qiziquvchan",
+    "example": "He has a voracious appetite for knowledge, reading several books a week."
+  },
+  {
+    "date": "2025-02-27",
+    "word": "caustic",
+    "pos": "sifat",
+    "translation": "achchiq, zaharxanda",
+    "example": "His caustic remarks hurt the feelings of many people."
+  },
+  {
+    "date": "2025-02-28",
+    "word": "sycophant",
+    "pos": "ot",
+    "translation": "xushomadgo'y, laganbardor",
+    "example": "The manager was surrounded by sycophants who agreed with his every word."
+  },
+  {
+    "date": "2025-03-01",
+    "word": "pugnacious",
+    "pos": "sifat",
+    "translation": "janjalkash, urushqoq",
+    "example": "The pugnacious politician was always ready for a debate."
+  },
+  {
+    "date": "2025-03-02",
+    "word": "salient",
+    "pos": "sifat",
+    "translation": "eng muhim, asosiy",
+    "example": "The salient point of his argument was that the costs were too high."
+  },
+  {
+    "date": "2025-03-03",
+    "word": "dichotomy",
+    "pos": "ot",
+    "translation": "dixotomiya, ikkiga bo'linish",
+    "example": "There is a false dichotomy between science and religion for many."
+  },
+  {
+    "date": "2025-03-04",
+    "word": "fastidious",
+    "pos": "sifat",
+    "translation": "talabchan, injiq",
+    "example": "He is very fastidious about how his food is prepared."
+  },
+  {
+    "date": "2025-03-05",
+    "word": "ken",
+    "pos": "ot",
+    "translation": "bilim doirasi, tushuncha",
+    "example": "The complex physics problem was beyond my ken."
+  },
+  {
+    "date": "2025-03-06",
+    "word": "maudlin",
+    "pos": "sifat",
+    "translation": "hissiyotli, yig'loqi",
+    "example": "The film became maudlin and overly sentimental in the end."
+  },
+  {
+    "date": "2025-03-07",
+    "word": "nefarious",
+    "pos": "sifat",
+    "translation": "qabih, yovuz",
+    "example": "The villain's nefarious plot was to take over the world."
+  },
+  {
+    "date": "2025-03-08",
+    "word": "panacea",
+    "pos": "ot",
+    "translation": "har dardga davo",
+    "example": "Technology is not a panacea for all our social problems."
+  },
+  {
+    "date": "2025-03-09",
+    "word": "rancor",
+    "pos": "ot",
+    "translation": "adovat, kek",
+    "example": "Despite the fierce competition, there was no rancor between the players."
+  },
+  {
+    "date": "2025-03-10",
+    "word": "usurp",
+    "pos": "fe'l",
+    "translation": "tortib olmoq (hokimiyatni)",
+    "example": "He tried to usurp the throne from the rightful king."
+  },
+  {
+    "date": "2025-03-11",
+    "word": "vilify",
+    "pos": "fe'l",
+    "translation": "yomonlamoq, tuhmat qilmoq",
+    "example": "The media campaign tried to vilify the politician."
+  },
+  {
+    "date": "2025-03-12",
+    "word": "wane",
+    "pos": "fe'l",
+    "translation": "kamaymoq, susaymoq",
+    "example": "The public's interest in the scandal began to wane."
+  },
+  {
+    "date": "2025-03-13",
+    "word": "zenith",
+    "pos": "ot",
+    "translation": "cho'qqi, eng yuqori nuqta",
+    "example": "At the zenith of her career, she was the most famous actress in the world."
+  },
+  {
+    "date": "2025-03-14",
+    "word": "abate",
+    "pos": "fe'l",
+    "translation": "pasaymoq, kamaymoq",
+    "example": "After the storm, the winds began to abate."
+  },
+  {
+    "date": "2025-03-15",
+    "word": "banal",
+    "pos": "sifat",
+    "translation": "sayoz, oddiy",
+    "example": "The movie's plot was banal and predictable."
+  },
+  {
+    "date": "2025-03-16",
+    "word": "cogent",
+    "pos": "sifat",
+    "translation": "ishonarli, asosli",
+    "example": "She presented a cogent argument for changing the policy."
+  },
+  {
+    "date": "2025-03-17",
+    "word": "denigrate",
+    "pos": "fe'l",
+    "translation": "qoralash, obro'sizlantirish",
+    "example": "It is not fair to denigrate someone's hard work."
+  },
+  {
+    "date": "2025-03-18",
+    "word": "emulate",
+    "pos": "fe'l",
+    "translation": "taqlid qilmoq, o'rnak olmoq",
+    "example": "Many young artists try to emulate the style of the great masters."
+  },
+  {
+    "date": "2025-03-19",
+    "word": "foment",
+    "pos": "fe'l",
+    "translation": "fitna qo'zg'atmoq",
+    "example": "He was accused of fomenting political unrest."
+  },
+  {
+    "date": "2025-03-20",
+    "word": "hegemony",
+    "pos": "ot",
+    "translation": "gegemonlik, hukmronlik",
+    "example": "The country sought regional hegemony through economic and military power."
+  },
+  {
+    "date": "2025-03-21",
+    "word": "iconoclast",
+    "pos": "ot",
+    "translation": "eskicha fikrlarni buzuvchi",
+    "example": "As an iconoclast, she challenged the traditional beliefs of her time."
+  },
+  {
+    "date": "2025-03-22",
+    "word": "laudatory",
+    "pos": "sifat",
+    "translation": "maqtovli",
+    "example": "The play received laudatory reviews from the critics."
+  },
+  {
+    "date": "2025-03-23",
+    "word": "nascent",
+    "pos": "sifat",
+    "translation": "yangi paydo bo'layotgan",
+    "example": "The nascent tech industry in the region is showing great promise."
+  },
+  {
+    "date": "2025-03-24",
+    "word": "obsequious",
+    "pos": "sifat",
+    "translation": "laganbardor, xushomadgo'y",
+    "example": "The obsequious assistant followed the boss everywhere."
+  },
+  {
+    "date": "2025-03-25",
+    "word": "querulous",
+    "pos": "sifat",
+    "translation": "doim noliydigan",
+    "example": "His querulous tone made it difficult to have a conversation with him."
+  },
+  {
+    "date": "2025-03-26",
+    "word": "sanguine",
+    "pos": "sifat",
+    "translation": "optimistik, nekbin",
+    "example": "She is sanguine about the company's future prospects."
+  },
+  {
+    "date": "2025-03-27",
+    "word": "tirade",
+    "pos": "ot",
+    "translation": "keskin tanqid, hujum",
+    "example": "He launched into a tirade against the government's policies."
+  },
+  {
+    "date": "2025-03-28",
+    "word": "vex",
+    "pos": "fe'l",
+    "translation": "g'ashiga tegmoq, bezovta qilmoq",
+    "example": "The constant delays began to vex the passengers."
+  },
+  {
+    "date": "2025-03-29",
+    "word": "yoke",
+    "pos": "fe'l",
+    "translation": "bo'yinturuqqa solmoq",
+    "example": "The peasants were yoked by the heavy taxes."
+  },
+  {
+    "date": "2025-03-30",
+    "word": "accolade",
+    "pos": "ot",
+    "translation": "olqish, mukofot",
+    "example": "She received the highest accolade of her profession."
+  },
+  {
+    "date": "2025-03-31",
+    "word": "bereft",
+    "pos": "sifat",
+    "translation": "mahrum bo'lgan",
+    "example": "After his friend moved away, he felt completely bereft."
+  },
+  {
+    "date": "2025-04-01",
+    "word": "celerity",
+    "pos": "ot",
+    "translation": "tezlik, chaqqonlik",
+    "example": "The team responded with celerity to the emergency."
+  },
+  {
+    "date": "2025-04-02",
+    "word": "ebullient",
+    "pos": "sifat",
+    "translation": "jo'shqin, g'ayratli",
+    "example": "She was in an ebullient mood after receiving the good news."
+  },
+  {
+    "date": "2025-04-03",
+    "word": "diaphanous",
+    "pos": "sifat",
+    "translation": "shaffof, yupqa",
+    "example": "The bride wore a diaphanous veil."
+  },
+  {
+    "date": "2025-04-04",
+    "word": "grandiloquent",
+    "pos": "sifat",
+    "translation": "dabdabali (nutq)",
+    "example": "His speech was full of grandiloquent language but lacked substance."
+  },
+  {
+    "date": "2025-04-05",
+    "word": "inchoate",
+    "pos": "sifat",
+    "translation": "boshlang'ich, rivojlanmagan",
+    "example": "Her inchoate ideas needed more development before being presented."
+  },
+  {
+    "date": "2025-04-06",
+    "word": "limpid",
+    "pos": "sifat",
+    "translation": "tiniq, shaffof",
+    "example": "We could see the fish swimming in the limpid water."
+  },
+  {
+    "date": "2025-04-07",
+    "word": "mellifluous",
+    "pos": "sifat",
+    "translation": "yoqimli, mayin (ovoz)",
+    "example": "Her mellifluous voice was perfect for reading poetry."
+  },
+  {
+    "date": "2025-04-08",
+    "word": "opulent",
+    "pos": "sifat",
+    "translation": "hashamatli, boy",
+    "example": "They lived an opulent lifestyle in a huge mansion."
+  },
+  {
+    "date": "2025-04-09",
+    "word": "paragon",
+    "pos": "ot",
+    "translation": "namuna, ibrat",
+    "example": "He was considered a paragon of virtue in his community."
+  },
+  {
+    "date": "2025-04-10",
+    "word": "recalcitrant",
+    "pos": "sifat",
+    "translation": "itoatsiz, qaysar",
+    "example": "The recalcitrant student refused to do his homework."
+  },
+  {
+    "date": "2025-04-11",
+    "word": "somnolent",
+    "pos": "sifat",
+    "translation": "uyquchan",
+    "example": "The somnolent cat lay in the patch of sun."
+  },
+  {
+    "date": "2025-04-12",
+    "word": "trenchant",
+    "pos": "sifat",
+    "translation": "keskin, o'tkir",
+    "example": "His trenchant criticism highlighted the weaknesses of the plan."
+  },
+  {
+    "date": "2025-04-13",
+    "word": "umbrage",
+    "pos": "ot",
+    "translation": "xafagarchilik, araz",
+    "example": "She took umbrage at his rude comment."
+  },
+  {
+    "date": "2025-04-14",
+    "word": "veracity",
+    "pos": "ot",
+    "translation": "haqqoniylik, to'g'rilik",
+    "example": "The lawyer questioned the veracity of the witness's statement."
+  },
+  {
+    "date": "2025-04-15",
+    "word": "winsome",
+    "pos": "sifat",
+    "translation": "maftunkor, yoqimtoy",
+    "example": "Her winsome smile charmed everyone she met."
+  },
+  {
+    "date": "2025-04-16",
+    "word": "abjure",
+    "pos": "fe'l",
+    "translation": "voz kechmoq (qasamyod qilib)",
+    "example": "He was forced to abjure his political beliefs."
+  },
+  {
+    "date": "2025-04-17",
+    "word": "bilk",
+    "pos": "fe'l",
+    "translation": "aldab pul undirmoq",
+    "example": "The con artist tried to bilk the elderly couple out of their savings."
+  },
+  {
+    "date": "2025-04-18",
+    "word": "corpulent",
+    "pos": "sifat",
+    "translation": "semiz, to'la",
+    "example": "The corpulent man had difficulty climbing the stairs."
+  },
+  {
+    "date": "2025-04-19",
+    "word": "dulcet",
+    "pos": "sifat",
+    "translation": "yoqimli, mayin",
+    "example": "The dulcet tones of the harp filled the room."
+  },
+  {
+    "date": "2025-04-20",
+    "word": "exculpate",
+    "pos": "fe'l",
+    "translation": "oqlov, aybni yengillashtirish",
+    "example": "The new evidence helped to exculpate the defendant."
+  },
+  {
+    "date": "2025-04-21",
+    "word": "fallacious",
+    "pos": "sifat",
+    "translation": "xato, aldamchi",
+    "example": "His argument was based on fallacious reasoning."
+  },
+  {
+    "date": "2025-04-22",
+    "word": "ignominious",
+    "pos": "sifat",
+    "translation": "sharmandali, isnodli",
+    "example": "The team suffered an ignominious defeat."
+  },
+  {
+    "date": "2025-04-23",
+    "word": "kismet",
+    "pos": "ot",
+    "translation": "qismat, taqdir",
+    "example": "He believed it was kismet that they met on that rainy day."
+  },
+  {
+    "date": "2025-04-24",
+    "word": "mendacious",
+    "pos": "sifat",
+    "translation": "yolg'onchi",
+    "example": "The mendacious politician was caught in another lie."
+  },
+  {
+    "date": "2025-04-25",
+    "word": "onerous",
+    "pos": "sifat",
+    "translation": "og'ir, mashaqqatli",
+    "example": "He found the task of organizing the event to be quite onerous."
+  },
+  {
+    "date": "2025-04-26",
+    "word": "pellucid",
+    "pos": "sifat",
+    "translation": "tiniq, shaffof",
+    "example": "Her pellucid writing style made complex ideas easy to understand."
+  },
+  {
+    "date": "2025-04-27",
+    "word": "quandary",
+    "pos": "ot",
+    "translation": "qiyin ahvol, ikkilanish",
+    "example": "I was in a quandary about whether to accept the job offer."
+  },
+  {
+    "date": "2025-04-28",
+    "word": "reprobate",
+    "pos": "ot",
+    "translation": "axloqsiz, buzuq odam",
+    "example": "He was known as a drunken reprobate in the town."
+  },
+  {
+    "date": "2025-04-29",
+    "word": "spurious",
+    "pos": "sifat",
+    "translation": "soxta, qalbaki",
+    "example": "He was arrested for making spurious claims about the product."
+  },
+  {
+    "date": "2025-04-30",
+    "word": "turpitude",
+    "pos": "ot",
+    "translation": "tubanlik, axloqsizlik",
+    "example": "The criminal was sentenced for acts of moral turpitude."
+  },
+  {
+    "date": "2025-05-01",
+    "word": "vituperate",
+    "pos": "fe'l",
+    "translation": "haqoratlamoq, so'kmoq",
+    "example": "The manager began to vituperate his staff for the simple mistake."
+  },
+  {
+    "date": "2025-05-02",
+    "word": "alacrity",
+    "pos": "ot",
+    "translation": "g'ayrat, shijoat",
+    "example": "She accepted the new challenge with alacrity."
+  },
+  {
+    "date": "2025-05-03",
+    "word": "circumspect",
+    "pos": "sifat",
+    "translation": "ehtiyotkor, mulohazali",
+    "example": "In this situation, you need to be very circumspect about whom you trust."
+  },
+  {
+    "date": "2025-05-04",
+    "word": "deleterious",
+    "pos": "sifat",
+    "translation": "zararli, ziyonli",
+    "example": "Smoking has deleterious effects on your health."
+  },
+  {
+    "date": "2025-05-05",
+    "word": "enervate",
+    "pos": "fe'l",
+    "translation": "kuchsizlantirmoq, holdan toyish",
+    "example": "The long journey seemed to enervate the elderly passengers."
+  },
+  {
+    "date": "2025-05-06",
+    "word": "fatuous",
+    "pos": "sifat",
+    "translation": "ahmoqona, be'mani",
+    "example": "He made a fatuous comment that annoyed everyone."
+  },
+  {
+    "date": "2025-05-07",
+    "word": "harangue",
+    "pos": "ot",
+    "translation": "keskin nutq, tanbeh",
+    "example": "The coach delivered a long harangue to the team after their loss."
+  },
+  {
+    "date": "2025-05-08",
+    "word": "insipid",
+    "pos": "sifat",
+    "translation": "mazasiz, be'mani",
+    "example": "The soup was bland and insipid."
+  },
+  {
+    "date": "2025-05-09",
+    "word": "lachrymose",
+    "pos": "sifat",
+    "translation": "yig'loqi, ko'p yig'laydigan",
+    "example": "The lachrymose movie made everyone in the theater cry."
+  },
+  {
+    "date": "2025-05-10",
+    "word": "maladroit",
+    "pos": "sifat",
+    "translation": "qo'pol, epanasiz",
+    "example": "His maladroit handling of the situation only made things worse."
+  },
+  {
+    "date": "2025-05-11",
+    "word": "nonplussed",
+    "pos": "sifat",
+    "translation": "dovdirab qolgan, hayron",
+    "example": "She was nonplussed by the unexpected question."
+  },
+  {
+    "date": "2025-05-12",
+    "word": "paucity",
+    "pos": "ot",
+    "translation": "yetishmovchilik, kamchilik",
+    "example": "There is a paucity of evidence to support his claim."
+  },
+  {
+    "date": "2025-05-13",
+    "word": "phlegmatic",
+    "pos": "sifat",
+    "translation": "vazmin, bosiq",
+    "example": "The phlegmatic driver remained calm during the traffic jam."
+  },
+  {
+    "date": "2025-05-14",
+    "word": "quiescent",
+    "pos": "sifat",
+    "translation": "tinch, harakatsiz",
+    "example": "The volcano has been quiescent for many years."
+  },
+  {
+    "date": "2025-05-15",
+    "word": "rife",
+    "pos": "sifat",
+    "translation": "keng tarqalgan (salbiy)",
+    "example": "The city was rife with rumors and speculation."
+  },
+  {
+    "date": "2025-05-16",
+    "word": "solicitous",
+    "pos": "sifat",
+    "translation": "g'amxo'r, mehribon",
+    "example": "She was always solicitous about the welfare of her students."
+  },
+  {
+    "date": "2025-05-17",
+    "word": "truculent",
+    "pos": "sifat",
+    "translation": "agressiv, janjalkash",
+    "example": "His truculent attitude made him unpopular with his colleagues."
+  },
+  {
+    "date": "2025-05-18",
+    "word": "unctuous",
+    "pos": "sifat",
+    "translation": "xushomadgo'y, sun'iy",
+    "example": "I don't trust his unctuous praise; it feels insincere."
+  },
+  {
+    "date": "2025-05-19",
+    "word": "vacillate",
+    "pos": "fe'l",
+    "translation": "ikkilanmoq, o'ylanib turmoq",
+    "example": "She tends to vacillate between choosing a career in law and medicine."
+  },
+  {
+    "date": "2025-05-20",
+    "word": "wizened",
+    "pos": "sifat",
+    "translation": "qaxshagan, ajin bosgan",
+    "example": "The old sailor had a wizened face from years in the sun."
+  },
+  {
+    "date": "2025-05-21",
+    "word": "acerbic",
+    "pos": "sifat",
+    "translation": "achchiq, keskin",
+    "example": "Her acerbic wit can be both funny and hurtful."
+  },
+  {
+    "date": "2025-05-22",
+    "word": "blandishment",
+    "pos": "ot",
+    "translation": "xushomad, maqtov",
+    "example": "He was impervious to her blandishments."
+  },
+  {
+    "date": "2025-05-23",
+    "word": "chicanery",
+    "pos": "ot",
+    "translation": "firibgarlik, ayyorlik",
+    "example": "The politician was accused of using chicanery to win the election."
+  },
+  {
+    "date": "2025-05-24",
+    "word": "didactic",
+    "pos": "sifat",
+    "translation": "pand-nasihatli, o'rgatuvchi",
+    "example": "The novel was too didactic for my taste; it felt like a lecture."
+  },
+  {
+    "date": "2025-05-25",
+    "word": "eschew",
+    "pos": "fe'l",
+    "translation": "chetlanmoq, voz kechmoq",
+    "example": "He made a decision to eschew all forms of processed food."
+  },
+  {
+    "date": "2025-05-26",
+    "word": "exacerbate",
+    "pos": "fe'l",
+    "translation": "kuchaytirmoq, yomonlashtirmoq",
+    "example": "His harsh words only served to exacerbate the tense situation."
+  },
+  {
+    "date": "2025-05-27",
+    "word": "invective",
+    "pos": "ot",
+    "translation": "haqorat, dashnom",
+    "example": "The politician's speech was full of bitter invective against his opponents."
+  },
+  {
+    "date": "2025-05-28",
+    "word": "proclivity",
+    "pos": "ot",
+    "translation": "moyillik, ishtiyoq",
+    "example": "She has a proclivity for telling exaggerated stories."
+  },
+  {
+    "date": "2025-05-29",
+    "word": "assiduous",
+    "pos": "sifat",
+    "translation": "g'ayratli, tirishqoq",
+    "example": "The assiduous student spent hours in the library."
+  },
+  {
+    "date": "2025-05-30",
+    "word": "bombastic",
+    "pos": "sifat",
+    "translation": "dabdabali, balandparvoz",
+    "example": "His bombastic speeches were full of promises but empty of action."
+  },
+  {
+    "date": "2025-05-31",
+    "word": "effrontery",
+    "pos": "ot",
+    "translation": "surbetlik, yuzsizlik",
+    "example": "He had the effrontery to ask for a raise after being late all week."
+  },
+  {
+    "date": "2025-06-01",
+    "word": "impecunious",
+    "pos": "sifat",
+    "translation": "kambag'al, pulsiz",
+    "example": "The impecunious artist struggled to buy paints."
+  },
+  {
+    "date": "2025-06-02",
+    "word": "inure",
+    "pos": "fe'l",
+    "translation": "ko'niktirmoq, chidamlilikni oshirmoq",
+    "example": "The soldiers were inured to the hardships of life in the field."
+  },
+  {
+    "date": "2025-06-03",
+    "word": "jubilant",
+    "pos": "sifat",
+    "translation": "xursand, shod",
+    "example": "The jubilant crowd celebrated their team's victory."
+  },
+  {
+    "date": "2025-06-04",
+    "word": "munificent",
+    "pos": "sifat",
+    "translation": "saxiy, qo'li ochiq",
+    "example": "A munificent benefactor donated the new library wing."
+  },
+  {
+    "date": "2025-06-05",
+    "word": "penurious",
+    "pos": "sifat",
+    "translation": "juda kambag'al, qashshoq",
+    "example": "The penurious family could barely afford to eat."
+  },
+  {
+    "date": "2025-06-06",
+    "word": "perfidy",
+    "pos": "ot",
+    "translation": "xiyonat, sotqinlik",
+    "example": "His act of perfidy was a betrayal to his country."
+  },
+  {
+    "date": "2025-06-07",
+    "word": "precipitate",
+    "pos": "fe'l",
+    "translation": "tezlashtirmoq, sabab bo'lmoq",
+    "example": "The announcement precipitated a rush of applications."
+  },
+  {
+    "date": "2025-06-08",
+    "word": "prosaic",
+    "pos": "sifat",
+    "translation": "zerikarli, oddiy",
+    "example": "She lived a prosaic life, with the same routine every day."
+  },
+  {
+    "date": "2025-06-09",
+    "word": "punctilious",
+    "pos": "sifat",
+    "translation": "pedant, mayda-chuydagacha e'tiborli",
+    "example": "He was punctilious about following the rules of grammar."
+  },
+  {
+    "date": "2025-06-10",
+    "word": "salubrious",
+    "pos": "sifat",
+    "translation": "sog'liq uchun foydali",
+    "example": "The salubrious mountain air was refreshing."
+  },
+  {
+    "date": "2025-06-11",
+    "word": "staid",
+    "pos": "sifat",
+    "translation": "jiddiy, vazmin",
+    "example": "The company had a staid reputation for being conservative."
+  },
+  {
+    "date": "2025-06-12",
+    "word": "transient",
+    "pos": "sifat",
+    "translation": "o'tkinchi, vaqtinchalik",
+    "example": "The homeless population is often transient, moving from place to place."
+  },
+  {
+    "date": "2025-06-13",
+    "word": "veritable",
+    "pos": "sifat",
+    "translation": "haqiqiy, chinakam",
+    "example": "The enthusiastic crowd was a veritable sea of people."
+  },
+  {
+    "date": "2025-06-14",
+    "word": "anachronism",
+    "pos": "ot",
+    "translation": "eskirgan narsa, zamonaga mos kelmaslik",
+    "example": "In today's digital world, a typewriter is an anachronism."
+  },
+  {
+    "date": "2025-06-15",
+    "word": "boisterous",
+    "pos": "sifat",
+    "translation": "shovqinli, sersavlat",
+    "example": "The boisterous children were running and shouting in the playground."
+  },
+  {
+    "date": "2025-06-16",
+    "word": "clandestine",
+    "pos": "sifat",
+    "translation": "yashirin, maxfiy",
+    "example": "They held a clandestine meeting to discuss their plans."
+  },
+  {
+    "date": "2025-06-17",
+    "word": "diffident",
+    "pos": "sifat",
+    "translation": "tortinchoq, ishonchsiz",
+    "example": "She was diffident about expressing her opinions in public."
+  },
+  {
+    "date": "2025-06-18",
+    "word": "epistolary",
+    "pos": "sifat",
+    "translation": "maktublar orqali (roman)",
+    "example": "The novel was written in an epistolary format, consisting of letters."
+  },
+  {
+    "date": "2025-06-19",
+    "word": "expedient",
+    "pos": "sifat",
+    "translation": "maqsadga muvofiq, qulay",
+    "example": "It was expedient to solve the problem quickly, even if not perfectly."
+  },
+  {
+    "date": "2025-06-20",
+    "word": "incumbent",
+    "pos": "ot",
+    "translation": "mansabdor shaxs",
+    "example": "The incumbent president is running for re-election."
+  },
+  {
+    "date": "2025-06-21",
+    "word": "itinerant",
+    "pos": "sifat",
+    "translation": "darbadar, sayyor",
+    "example": "The itinerant preacher traveled from town to town."
+  },
+  {
+    "date": "2025-06-22",
+    "word": "mercurial",
+    "pos": "sifat",
+    "translation": "o'zgaruvchan, beqaror",
+    "example": "Her mercurial temperament made her unpredictable."
+  },
+  {
+    "date": "2025-06-23",
+    "word": "officious",
+    "pos": "sifat",
+    "translation": "tiqilinch, o'zini bilgich",
+    "example": "The officious security guard ordered everyone around."
+  },
+  {
+    "date": "2025-06-24",
+    "word": "platitude",
+    "pos": "ot",
+    "translation": "sayoz gap, banal fikr",
+    "example": "His speech was filled with empty platitudes and clichés."
+  },
+  {
+    "date": "2025-06-25",
+    "word": "pulchritudinous",
+    "pos": "sifat",
+    "translation": "go'zal, husnli",
+    "example": "The pulchritudinous landscape was breathtaking."
+  },
+  {
+    "date": "2025-06-26",
+    "word": "rapacious",
+    "pos": "sifat",
+    "translation": "ochko'z, yirtqich",
+    "example": "The rapacious company exploited its workers."
+  },
+  {
+    "date": "2025-06-27",
+    "word": "spendthrift",
+    "pos": "ot",
+    "translation": "isrofgor, pulni sovuruvchi",
+    "example": "Her spendthrift habits left her with no savings."
+  },
+  {
+    "date": "2025-06-28",
+    "word": "surreptitious",
+    "pos": "sifat",
+    "translation": "yashirin, bildirmasdan",
+    "example": "She cast a surreptitious glance at her watch."
+  },
+  {
+    "date": "2025-06-29",
+    "word": "ubriety",
+    "pos": "ot",
+    "translation": "jiddiylik, vazminlik",
+    "example": "He spoke with ubriety and common sense."
+  },
+  {
+    "date": "2025-06-30",
+    "word": "vicissitude",
+    "pos": "ot",
+    "translation": "o'zgarish, qiyinchilik",
+    "example": "They remained friends through all the vicissitudes of life."
+  },
+  {
+    "date": "2025-07-01",
+    "word": "amalgamate",
+    "pos": "fe'l",
+    "translation": "birlashtirmoq, qo'shmoq",
+    "example": "The two companies decided to amalgamate into a single corporation."
+  },
+  {
+    "date": "2025-07-02",
+    "word": "aberration",
+    "pos": "ot",
+    "translation": "g'ayritabiiylik, chetlanish",
+    "example": "The single poor grade on his report card was an aberration."
+  },
+  {
+    "date": "2025-07-03",
+    "word": "cajole",
+    "pos": "fe'l",
+    "translation": "aldab ko'ndirmoq, yo'ldan urmoq",
+    "example": "He managed to cajole his friends into helping him move."
+  },
+  {
+    "date": "2025-07-04",
+    "word": "demagogue",
+    "pos": "ot",
+    "translation": "demagog, xalqni aldovchi siyosatchi",
+    "example": "The crowd was swayed by the fiery rhetoric of the demagogue."
+  },
+  {
+    "date": "2025-07-05",
+    "word": "egregious",
+    "pos": "sifat",
+    "translation": "juda yomon, qo'pol",
+    "example": "It was an egregious error for a professional to make."
+  },
+  {
+    "date": "2025-07-06",
+    "word": "florid",
+    "pos": "sifat",
+    "translation": "bezatilgan, dabdabali",
+    "example": "His speech was filled with florid language and excessive praise."
+  },
+  {
+    "date": "2025-07-07",
+    "word": "impetuous",
+    "pos": "sifat",
+    "translation": "shoshqaloq, o'ylamasdan ish qiladigan",
+    "example": "His impetuous decision to quit his job had serious consequences."
+  },
+  {
+    "date": "2025-07-08",
+    "word": "inimical",
+    "pos": "sifat",
+    "translation": "dushmanona, zararli",
+    "example": "The new policies were inimical to the interests of the employees."
+  },
+  {
+    "date": "2025-07-09",
+    "word": "jejune",
+    "pos": "sifat",
+    "translation": "sayoz, zerikarli",
+    "example": "He found the conversation to be rather jejune and uninteresting."
+  },
+  {
+    "date": "2025-07-10",
+    "word": "moribund",
+    "pos": "sifat",
+    "translation": "o'layotgan, tanazzulga yuz tutgan",
+    "example": "The moribund industry was struggling to survive."
+  },
+  {
+    "date": "2025-07-11",
+    "word": "obstreperous",
+    "pos": "sifat",
+    "translation": "shovqinli, itoatsiz",
+    "example": "The obstreperous children were difficult to manage."
+  },
+  {
+    "date": "2025-07-12",
+    "word": "pertinacious",
+    "pos": "sifat",
+    "translation": "qaysar, o'jar",
+    "example": "He was a pertinacious salesman who would not take no for an answer."
+  },
+  {
+    "date": "2025-07-13",
+    "word": "profligate",
+    "pos": "sifat",
+    "translation": "isrofgor, badxulq",
+    "example": "The profligate king spent the country's treasury on lavish parties."
+  },
+  {
+    "date": "2025-07-14",
+    "word": "relegate",
+    "pos": "fe'l",
+    "translation": "pastga tushirmoq, surgun qilmoq",
+    "example": "He was relegated to a minor role in the company."
+  },
+  {
+    "date": "2025-07-15",
+    "word": "sanctimonious",
+    "pos": "sifat",
+    "translation": "riyokor, o'zini muqaddas tutuvchi",
+    "example": "His sanctimonious speech about morality was hypocritical."
+  },
+  {
+    "date": "2025-07-16",
+    "word": "stolid",
+    "pos": "sifat",
+    "translation": "hissiz, befarq",
+    "example": "He remained stolid and unemotional throughout the sad movie."
+  },
+  {
+    "date": "2025-07-17",
+    "word": "timorous",
+    "pos": "sifat",
+    "translation": "qo'rqoq, jur'atsiz",
+    "example": "The timorous mouse scurried away from the cat."
+  },
+  {
+    "date": "2025-07-18",
+    "word": "vitriolic",
+    "pos": "sifat",
+    "translation": "zaharli, achchiq",
+    "example": "The article was full of vitriolic attacks on the president."
+  },
+  {
+    "date": "2025-07-19",
+    "word": "vociferous",
+    "pos": "sifat",
+    "translation": "shovqinli, baland ovozli",
+    "example": "He was a vociferous critic of the new law."
+  },
+  {
+    "date": "2025-07-20",
+    "word": "asperity",
+    "pos": "ot",
+    "translation": "keskinlik, qo'pollik",
+    "example": "She responded with asperity to the rude question."
+  },
+  {
+    "date": "2025-07-21",
+    "word": "capitulate",
+    "pos": "fe'l",
+    "translation": "taslim bo'lmoq",
+    "example": "The enemy forces were forced to capitulate."
+  },
+  {
+    "date": "2025-07-22",
+    "word": "desultory",
+    "pos": "sifat",
+    "translation": "tartibsiz, uzuq-yuluq",
+    "example": "He made a desultory attempt to clean his room."
+  },
+  {
+    "date": "2025-07-23",
+    "word": "execrable",
+    "pos": "sifat",
+    "translation": "juda yomon, jirkanch",
+    "example": "The food at the restaurant was execrable."
+  },
+  {
+    "date": "2025-07-24",
+    "word": "exigent",
+    "pos": "sifat",
+    "translation": "shoshilinch, kechiktirib bo'lmaydigan",
+    "example": "The exigent circumstances required immediate action."
+  },
+  {
+    "date": "2025-07-25",
+    "word": "expurgate",
+    "pos": "fe'l",
+    "translation": "tozalamoq (matnni)",
+    "example": "The editor decided to expurgate the offensive language from the book."
+  },
+  {
+    "date": "2025-07-26",
+    "word": "insouciant",
+    "pos": "sifat",
+    "translation": "beparvo, befarq",
+    "example": "She had an insouciant attitude towards her responsibilities."
+  },
+  {
+    "date": "2025-07-27",
+    "word": "inveterate",
+    "pos": "sifat",
+    "translation": "surunkali, eski odat",
+    "example": "He is an inveterate gambler who cannot quit."
+  },
+  {
+    "date": "2025-07-28",
+    "word": "kowtow",
+    "pos": "fe'l",
+    "translation": "yalinmoq, ta'zim qilmoq",
+    "example": "He refused to kowtow to the demands of the dictator."
+  },
+  {
+    "date": "2025-07-29",
+    "word": "portent",
+    "pos": "ot",
+    "translation": "bashorat, alomat",
+    "example": "The dark clouds were a portent of the coming storm."
+  },
+  {
+    "date": "2025-07-30",
+    "word": "redoubtable",
+    "pos": "sifat",
+    "translation": "mashhur, qo'rqinchli",
+    "example": "He was a redoubtable opponent in the chess tournament."
+  },
+  {
+    "date": "2025-07-31",
+    "word": "surfeit",
+    "pos": "ot",
+    "translation": "ortiqchalik, mo'l-ko'llik",
+    "example": "There was a surfeit of food at the party."
+  },
+  {
+    "date": "2025-08-01",
+    "word": "turgid",
+    "pos": "sifat",
+    "translation": "shishgan, murakkab",
+    "example": "His writing style was turgid and difficult to understand."
+  },
+  {
+    "date": "2025-08-02",
+    "word": "abnegation",
+    "pos": "ot",
+    "translation": "o'zini inkor etish, voz kechish",
+    "example": "The monk's life was one of abnegation and self-sacrifice."
+  },
+  {
+    "date": "2025-08-03",
+    "word": "belie",
+    "pos": "fe'l",
+    "translation": "yashirmoq, aldab ko'rsatmoq",
+    "example": "His calm demeanor seemed to belie the turmoil he was feeling."
+  },
+  {
+    "date": "2025-08-04",
+    "word": "concomitant",
+    "pos": "sifat",
+    "translation": "hamroh, birga keladigan",
+    "example": "Fame has its concomitant pressures and loss of privacy."
+  },
+  {
+    "date": "2025-08-05",
+    "word": "credulous",
+    "pos": "sifat",
+    "translation": "ishonuvchan, sodda",
+    "example": "The credulous tourist was easily fooled by the street vendor."
+  },
+  {
+    "date": "2025-08-06",
+    "word": "efficacious",
+    "pos": "sifat",
+    "translation": "samarali, ta'sirchan",
+    "example": "The new medicine proved to be highly efficacious in treating the disease."
+  },
+  {
+    "date": "2025-08-07",
+    "word": "exorbitant",
+    "pos": "sifat",
+    "translation": "juda qimmat",
+    "example": "The price of the ticket was exorbitant."
+  },
+  {
+    "date": "2025-08-08",
+    "word": "fractious",
+    "pos": "sifat",
+    "translation": "injiq, janjalkash",
+    "example": "The fractious child was always getting into arguments."
+  },
+  {
+    "date": "2025-08-09",
+    "word": "gauche",
+    "pos": "sifat",
+    "translation": "qo'pol, madaniyatsiz",
+    "example": "His gauche behavior at the dinner party embarrassed everyone."
+  },
+  {
+    "date": "2025-08-10",
+    "word": "ignoble",
+    "pos": "sifat",
+    "translation": "pastkash, sharmandali",
+    "example": "His ignoble actions brought shame to his family."
+  },
+  {
+    "date": "2025-08-11",
+    "word": "indefatigable",
+    "pos": "sifat",
+    "translation": "charchamaydigan, tinimsiz",
+    "example": "She was an indefatigable campaigner for human rights."
+  },
+  {
+    "date": "2025-08-12",
+    "word": "lassitude",
+    "pos": "ot",
+    "translation": "holsizlik, charchoq",
+    "example": "A feeling of lassitude washed over him after the long day's work."
+  },
+  {
+    "date": "2025-08-13",
+    "word": "nadir",
+    "pos": "ot",
+    "translation": "eng past nuqta, tubanlik",
+    "example": "The company reached its nadir during the economic recession."
+  },
+  {
+    "date": "2025-08-14",
+    "word": "panegyric",
+    "pos": "ot",
+    "translation": "madhiya, maqtov",
+    "example": "He delivered a panegyric on the achievements of the late president."
+  },
+  {
+    "date": "2025-08-15",
+    "word": "penchant",
+    "pos": "ot",
+    "translation": "moyillik, ishtiyoq",
+    "example": "She has a penchant for collecting antique jewelry."
+  },
+  {
+    "date": "2025-08-16",
+    "word": "plethora",
+    "pos": "ot",
+    "translation": "mo'l-ko'llik, ortiqchalik",
+    "example": "There was a plethora of books to choose from in the library."
+  },
+  {
+    "date": "2025-08-17",
+    "word": "propinquity",
+    "pos": "ot",
+    "translation": "yaqinlik (joy yoki vaqtda)",
+    "example": "The propinquity of their houses made them close friends."
+  },
+  {
+    "date": "2025-08-18",
+    "word": "quaff",
+    "pos": "fe'l",
+    "translation": "xo'plab ichmoq",
+    "example": "He began to quaff the cold water after his long run."
+  },
+  {
+    "date": "2025-08-19",
+    "word": "recondite",
+    "pos": "sifat",
+    "translation": "murakkab, tushunarsiz",
+    "example": "He was reading a recondite book on philosophy."
+  },
+  {
+    "date": "2025-08-20",
+    "word": "sagacious",
+    "pos": "sifat",
+    "translation": "dono, oqil",
+    "example": "The sagacious old man gave him wise advice."
+  },
+  {
+    "date": "2025-08-21",
+    "word": "scurrilous",
+    "pos": "sifat",
+    "translation": "haqoratli, tuhmatli",
+    "example": "The tabloid published a scurrilous story about the celebrity."
+  },
+  {
+    "date": "2025-08-22",
+    "word": "soporific",
+    "pos": "sifat",
+    "translation": "uyqu keltiruvchi",
+    "example": "The lecturer's monotonous voice had a soporific effect on the students."
+  },
+  {
+    "date": "2025-08-23",
+    "word": "sycophantic",
+    "pos": "sifat",
+    "translation": "xushomadgo'y, laganbardor",
+    "example": "She was tired of the sycophantic praise from her assistants."
+  },
+  {
+    "date": "2025-08-24",
+    "word": "temerity",
+    "pos": "ot",
+    "translation": "jur'at, jasorat (salbiy)",
+    "example": "He had the temerity to question the teacher's authority."
+  },
+  {
+    "date": "2025-08-25",
+    "word": "unwieldy",
+    "pos": "sifat",
+    "translation": "qo'pol, noqulay",
+    "example": "The unwieldy package was difficult to carry."
+  },
+  {
+    "date": "2025-08-26",
+    "word": "venal",
+    "pos": "sifat",
+    "translation": "poraxo'r, sotqin",
+    "example": "The venal judge was known for accepting bribes."
+  },
+  {
+    "date": "2025-08-27",
+    "word": "virulent",
+    "pos": "sifat",
+    "translation": "zaharli, keskin",
+    "example": "The virulent criticism from the opposition was relentless."
+  },
+  {
+    "date": "2025-08-28",
+    "word": "voluble",
+    "pos": "sifat",
+    "translation": "sergap, gapdon",
+    "example": "The voluble tour guide talked nonstop for two hours."
+  },
+  {
+    "date": "2025-08-29",
+    "word": "wanton",
+    "pos": "sifat",
+    "translation": "ma'nosiz, shafqatsiz",
+    "example": "The wanton destruction of the historical monument shocked everyone."
+  },
+  {
+    "date": "2025-08-30",
+    "word": "zephyr",
+    "pos": "ot",
+    "translation": "mayin shabada",
+    "example": "A gentle zephyr rustled the leaves in the trees."
+  },
+  {
+    "date": "2025-08-31",
+    "word": "toady",
+    "pos": "ot",
+    "translation": "laganbardor, xushomadgo'y",
+    "example": "He is a toady to the boss, always agreeing with everything he says."
+  },
+  {
+    "date": "2025-09-01",
+    "word": "abstruse",
+    "pos": "sifat",
+    "translation": "murakkab, tushunarsiz",
+    "example": "The professor's lecture was too abstruse for most of the students."
+  },
+  {
+    "date": "2025-09-02",
+    "word": "antipathy",
+    "pos": "ot",
+    "translation": "antipatiya, yoqtirmaslik",
+    "example": "He felt a strong antipathy towards his arrogant coworker."
+  },
+  {
+    "date": "2025-09-03",
+    "word": "apocryphal",
+    "pos": "sifat",
+    "translation": "shubhali, soxta",
+    "example": "Most of the stories about the famous pirate are likely apocryphal."
+  },
+  {
+    "date": "2025-09-04",
+    "word": "arcane",
+    "pos": "sifat",
+    "translation": "sirli, tushunarsiz",
+    "example": "The alchemist's notes were filled with arcane symbols and formulas."
+  },
+  {
+    "date": "2025-09-05",
+    "word": "ascetic",
+    "pos": "sifat",
+    "translation": "zohid, tarkidunyo qilgan",
+    "example": "The monk lived a simple, ascetic life in the monastery."
+  },
+  {
+    "date": "2025-09-06",
+    "word": "candor",
+    "pos": "ot",
+    "translation": "samimiylik, ochiqlik",
+    "example": "I appreciate your candor in this difficult situation."
+  },
+  {
+    "date": "2025-09-07",
+    "word": "conflagration",
+    "pos": "ot",
+    "translation": "katta yong'in",
+    "example": "The conflagration destroyed several buildings in the city center."
+  },
+  {
+    "date": "2025-09-08",
+    "word": "contrite",
+    "pos": "sifat",
+    "translation": "pushaymon, tavba qilgan",
+    "example": "She was contrite and apologized for her mistake."
+  },
+  {
+    "date": "2025-09-09",
+    "word": "cupidity",
+    "pos": "ot",
+    "translation": "ochko'zlik, mol-dunyoga hirs",
+    "example": "His cupidity led him to make risky and unethical investments."
+  },
+  {
+    "date": "2025-09-10",
+    "word": "dearth",
+    "pos": "ot",
+    "translation": "yetishmovchilik, tanqislik",
+    "example": "There is a dearth of qualified candidates for the job."
+  },
+  {
+    "date": "2025-09-11",
+    "word": "debacle",
+    "pos": "ot",
+    "translation": "falokat, muvaffaqiyatsizlik",
+    "example": "The music festival turned into a complete debacle due to poor organization."
+  },
+  {
+    "date": "2025-09-12",
+    "word": "dissemble",
+    "pos": "fe'l",
+    "translation": "yashirmoq, niqoblamoq",
+    "example": "He tried to dissemble his true feelings behind a smile."
+  },
+  {
+    "date": "2025-09-13",
+    "word": "endemic",
+    "pos": "sifat",
+    "translation": "muayyan joyga xos",
+    "example": "This plant is endemic to a small island in the Pacific."
+  },
+  {
+    "date": "2025-09-14",
+    "word": "ersatz",
+    "pos": "sifat",
+    "translation": "soxta, o'rinbosar",
+    "example": "They served ersatz coffee made from chicory root."
+  },
+  {
+    "date": "2025-09-15",
+    "word": "euphony",
+    "pos": "ot",
+    "translation": "ohangdorlik, jarangdorlik",
+    "example": "The poet's work is known for its beautiful euphony."
+  },
+  {
+    "date": "2025-09-16",
+    "word": "fecund",
+    "pos": "sifat",
+    "translation": "hosildor, sermahsul",
+    "example": "The fecund soil produced a bountiful harvest."
+  },
+  {
+    "date": "2025-09-17",
+    "word": "gamut",
+    "pos": "ot",
+    "translation": "diapazon, butun spektr",
+    "example": "The actress displayed a wide gamut of emotions in her performance."
+  },
+  {
+    "date": "2025-09-18",
+    "word": "halcyon",
+    "pos": "sifat",
+    "translation": "tinch, osuda",
+    "example": "She remembered the halcyon days of her childhood."
+  },
+  {
+    "date": "2025-09-19",
+    "word": "hiatus",
+    "pos": "ot",
+    "translation": "tanaffus, uzilish",
+    "example": "The band is taking a long hiatus before their next album."
+  },
+  {
+    "date": "2025-09-20",
+    "word": "imbue",
+    "pos": "fe'l",
+    "translation": "singdirmoq, to'ldirmoq",
+    "example": "Her paintings are imbued with a sense of nostalgia."
+  },
+  {
+    "date": "2025-09-21",
+    "word": "impassive",
+    "pos": "sifat",
+    "translation": "hissiz, befarq",
+    "example": "He remained impassive as the verdict was read."
+  },
+  {
+    "date": "2025-09-22",
+    "word": "inscrutable",
+    "pos": "sifat",
+    "translation": "tushunib bo'lmaydigan, sirli",
+    "example": "His expression was inscrutable, making it hard to know what he was thinking."
+  },
+  {
+    "date": "2025-09-23",
+    "word": "intrepid",
+    "pos": "sifat",
+    "translation": "qo'rqmas, jasur",
+    "example": "The intrepid explorer ventured into the dense jungle."
+  },
+  {
+    "date": "2025-09-24",
+    "word": "irascible",
+    "pos": "sifat",
+    "translation": "jahldor, tez achchiqlanadigan",
+    "example": "The irascible old man shouted at anyone who disturbed him."
+  },
+  {
+    "date": "2025-09-25",
+    "word": "libertine",
+    "pos": "ot",
+    "translation": "axloqsiz, erkin hayot kechiruvchi",
+    "example": "He gained a reputation as a wealthy libertine."
+  },
+  {
+    "date": "2025-09-26",
+    "word": "loquacious",
+    "pos": "sifat",
+    "translation": "sergap, gapdon",
+    "example": "The loquacious guide knew every story about the city."
+  },
+  {
+    "date": "2025-09-27",
+    "word": "mawkish",
+    "pos": "sifat",
+    "translation": "haddan tashqari hissiyotli, yoqimsiz",
+    "example": "The mawkish love story was too sentimental for my taste."
+  },
+  {
+    "date": "2025-09-28",
+    "word": "modicum",
+    "pos": "ot",
+    "translation": "oz miqdor, bir chimdim",
+    "example": "Even a modicum of common sense would have prevented the accident."
+  },
+  {
+    "date": "2025-09-29",
+    "word": "multifarious",
+    "pos": "sifat",
+    "translation": "ko'p qirrali, xilma-xil",
+    "example": "New York is a multifarious city with a diverse population."
+  },
+  {
+    "date": "2025-09-30",
+    "word": "neophyte",
+    "pos": "ot",
+    "translation": "yangi boshlovchi, neofit",
+    "example": "As a neophyte in the world of programming, he had much to learn."
+  },
+  {
+    "date": "2025-10-01",
+    "word": "obviate",
+    "pos": "fe'l",
+    "translation": "oldini olmoq, bartaraf etmoq",
+    "example": "Good planning can obviate many potential problems."
+  },
+  {
+    "date": "2025-10-02",
+    "word": "odium",
+    "pos": "ot",
+    "translation": "nafrat, jirkanish",
+    "example": "His betrayal earned him the odium of his former colleagues."
+  },
+  {
+    "date": "2025-10-03",
+    "word": "pastiche",
+    "pos": "ot",
+    "translation": "taqlid, aralash uslub",
+    "example": "The film was a pastiche of old detective movies."
+  },
+  {
+    "date": "2025-10-04",
+    "word": "perfunctory",
+    "pos": "sifat",
+    "translation": "yuzaki, beparvo",
+    "example": "He gave a perfunctory nod as a greeting."
+  },
+  {
+    "date": "2025-10-05",
+    "word": "probity",
+    "pos": "ot",
+    "translation": "halollik, vijdonlilik",
+    "example": "The judge was known for his unwavering probity."
+  },
+  {
+    "date": "2025-10-06",
+    "word": "puerile",
+    "pos": "sifat",
+    "translation": "bolalarcha, be'mani",
+    "example": "His puerile jokes were not appropriate for the serious meeting."
+  },
+  {
+    "date": "2025-10-07",
+    "word": "putrefy",
+    "pos": "fe'l",
+    "translation": "chirimoq, aynimoq",
+    "example": "The food began to putrefy in the hot weather."
+  },
+  {
+    "date": "2025-10-08",
+    "word": "quotidian",
+    "pos": "sifat",
+    "translation": "kundalik, oddiy",
+    "example": "She was tired of the quotidian routine of her life."
+  },
+  {
+    "date": "2025-10-09",
+    "word": "recant",
+    "pos": "fe'l",
+    "translation": "fikridan qaytmoq, voz kechmoq",
+    "example": "The witness was forced to recant her testimony."
+  },
+  {
+    "date": "2025-10-10",
+    "word": "ribald",
+    "pos": "sifat",
+    "translation": "qo'pol, behayo",
+    "example": "The play was full of ribald humor."
+  },
+  {
+    "date": "2025-10-11",
+    "word": "sedulous",
+    "pos": "sifat",
+    "translation": "g'ayratli, tirishqoq",
+    "example": "The sedulous student achieved top marks."
+  },
+  {
+    "date": "2025-10-12",
+    "word": "stoic",
+    "pos": "sifat",
+    "translation": "bosiq, hissiyotini yashiradigan",
+    "example": "He remained stoic despite the immense pain."
+  },
+  {
+    "date": "2025-10-13",
+    "word": "sundry",
+    "pos": "sifat",
+    "translation": "turli xil, har xil",
+    "example": "The shop sold sundry items, from hardware to groceries."
+  },
+  {
+    "date": "2025-10-14",
+    "word": "tawdry",
+    "pos": "sifat",
+    "translation": "arzon, didsiz",
+    "example": "She wore tawdry jewelry that looked cheap."
+  },
+  {
+    "date": "2025-10-15",
+    "word": "terse",
+    "pos": "sifat",
+    "translation": "qisqa va lo'nda",
+    "example": "He gave a terse reply to the long question."
+  },
+  {
+    "date": "2025-10-16",
+    "word": "travesty",
+    "pos": "ot",
+    "translation": "masxara, kulgili taqlid",
+    "example": "The trial was a travesty of justice."
+  },
+  {
+    "date": "2025-10-17",
+    "word": "uncouth",
+    "pos": "sifat",
+    "translation": "qo'pol, madaniyatsiz",
+    "example": "His uncouth manners shocked the other guests."
+  },
+  {
+    "date": "2025-10-18",
+    "word": "variegated",
+    "pos": "sifat",
+    "translation": "rang-barang, har xil",
+    "example": "The variegated leaves of the plant were beautiful."
+  },
+  {
+    "date": "2025-10-19",
+    "word": "vestige",
+    "pos": "ot",
+    "translation": "qoldiq, iz",
+    "example": "Not a vestige of the ancient city remained."
+  },
+  {
+    "date": "2025-10-20",
+    "word": "viable",
+    "pos": "sifat",
+    "translation": "hayotchan, amalga oshirsa bo'ladigan",
+    "example": "The committee is looking for a viable solution to the problem."
+  },
+  {
+    "date": "2025-10-21",
+    "word": "waver",
+    "pos": "fe'l",
+    "translation": "ikkilanmoq, o'ylanib qolmoq",
+    "example": "His determination began to waver in the face of adversity."
+  },
+  {
+    "date": "2025-10-22",
+    "word": "abhor",
+    "pos": "fe'l",
+    "translation": "nafratlanmoq, jirkanmoq",
+    "example": "I abhor all forms of cruelty and injustice."
+  },
+  {
+    "date": "2025-10-23",
+    "word": "acme",
+    "pos": "ot",
+    "translation": "cho'qqi, eng yuqori daraja",
+    "example": "The acme of his career was winning the championship."
+  },
+  {
+    "date": "2025-10-24",
+    "word": "anathema",
+    "pos": "ot",
+    "translation": "la'nat, nafrat ob'ekti",
+    "example": "Racial prejudice is an anathema to our society."
+  },
+  {
+    "date": "2025-10-25",
+    "word": "balk",
+    "pos": "fe'l",
+    "translation": "ikkilanmoq, to'xtab qolmoq",
+    "example": "He balked at the idea of investing so much money."
+  },
+  {
+    "date": "2025-10-26",
+    "word": "catalyst",
+    "pos": "ot",
+    "translation": "katalizator, tezlatgich",
+    "example": "The new invention was a catalyst for major changes in the industry."
+  },
+  {
+    "date": "2025-10-27",
+    "word": "churlish",
+    "pos": "sifat",
+    "translation": "qo'pol, dag'al",
+    "example": "It would be churlish to refuse his generous offer."
+  },
+  {
+    "date": "2025-10-28",
+    "word": "delineate",
+    "pos": "fe'l",
+    "translation": "tasvirlamoq, belgilamoq",
+    "example": "The report clearly delineates the project's goals."
+  },
+  {
+    "date": "2025-10-29",
+    "word": "deprecate",
+    "pos": "fe'l",
+    "translation": "qarshi chiqmoq, norozilik bildirmoq",
+    "example": "He tends to deprecate his own achievements."
+  },
+  {
+    "date": "2025-10-30",
+    "word": "effulgent",
+    "pos": "sifat",
+    "translation": "yorqin, nurli",
+    "example": "The effulgent sunset painted the sky with brilliant colors."
+  },
+  {
+    "date": "2025-10-31",
+    "word": "emollient",
+    "pos": "sifat",
+    "translation": "yumshatuvchi",
+    "example": "She used an emollient cream for her dry skin."
+  },
+  {
+    "date": "2025-11-01",
+    "word": "facile",
+    "pos": "sifat",
+    "translation": "yuzaki, oson",
+    "example": "His facile solution to the complex problem was not convincing."
+  },
+  {
+    "date": "2025-11-02",
+    "word": "abeyance",
+    "pos": "ot",
+    "translation": "vaqtinchalik to'xtatish",
+    "example": "The project was held in abeyance until the funding was secured."
+  },
+  {
+    "date": "2025-11-03",
+    "word": "austere",
+    "pos": "sifat",
+    "translation": "jiddiy, oddiy, zohidona",
+    "example": "The monk lived an austere life, with few possessions."
+  },
+  {
+    "date": "2025-11-04",
+    "word": "blight",
+    "pos": "ot",
+    "translation": "ofat, kasallik (o'simlik)",
+    "example": "The potato blight caused a widespread famine."
+  },
+  {
+    "date": "2025-11-05",
+    "word": "cacophony",
+    "pos": "ot",
+    "translation": "yoqimsiz tovushlar",
+    "example": "The cacophony of city traffic was overwhelming."
+  },
+  {
+    "date": "2025-11-06",
+    "word": "chastise",
+    "pos": "fe'l",
+    "translation": "jazolamoq, tanbeh bermoq",
+    "example": "The coach would chastise players for being late to practice."
+  },
+  {
+    "date": "2025-11-07",
+    "word": "coalesce",
+    "pos": "fe'l",
+    "translation": "birlashmoq, qo'shilmoq",
+    "example": "The small groups of protesters began to coalesce into a single large crowd."
+  },
+  {
+    "date": "2025-11-08",
+    "word": "compunction",
+    "pos": "ot",
+    "translation": "vijdon azobi, pushaymonlik",
+    "example": "He felt no compunction about telling a lie to save himself."
+  },
+  {
+    "date": "2025-11-09",
+    "word": "crestfallen",
+    "pos": "sifat",
+    "translation": "ruhan tushkun, xafa",
+    "example": "She was crestfallen after failing her final exam."
+  },
+  {
+    "date": "2025-11-10",
+    "word": "defunct",
+    "pos": "sifat",
+    "translation": "mavjud bo'lmagan, yopilgan",
+    "example": "The defunct railway line is now a popular walking trail."
+  },
+  {
+    "date": "2025-11-11",
+    "word": "demur",
+    "pos": "fe'l",
+    "translation": "e'tiroz bildirmoq, ikkilanmoq",
+    "example": "She did not demur when he offered to pay for dinner."
+  },
+  {
+    "date": "2025-11-12",
+    "word": "diatribe",
+    "pos": "ot",
+    "translation": "keskin tanqid, hujum",
+    "example": "He launched into a long diatribe against the new policies."
+  },
+  {
+    "date": "2025-11-13",
+    "word": "disparate",
+    "pos": "sifat",
+    "translation": "har xil, bir-biriga o'xshamaydigan",
+    "example": "The report combined data from several disparate sources."
+  },
+  {
+    "date": "2025-11-14",
+    "word": "dogmatic",
+    "pos": "sifat",
+    "translation": "dogmatik, o'z fikrida qattiq turadigan",
+    "example": "He is too dogmatic to listen to anyone else's opinion."
+  },
+  {
+    "date": "2025-11-15",
+    "word": "eclectic",
+    "pos": "sifat",
+    "translation": "turli xil, aralash",
+    "example": "Her taste in music is very eclectic, ranging from classical to hip-hop."
+  },
+  {
+    "date": "2025-11-16",
+    "word": "equivocate",
+    "pos": "fe'l",
+    "translation": "ikkilantiruvchi gap aytmoq",
+    "example": "When asked about his plans, the politician began to equivocate."
+  },
+  {
+    "date": "2025-11-17",
+    "word": "erudite",
+    "pos": "sifat",
+    "translation": "bilimli, ziyoli",
+    "example": "The erudite professor could speak five languages."
+  },
+  {
+    "date": "2025-11-18",
+    "word": "euphemism",
+    "pos": "ot",
+    "translation": "evfemizm (yumshoqroq ibora)",
+    "example": "'Passed away' is a euphemism for 'died'."
+  },
+  {
+    "date": "2025-11-19",
+    "word": "extant",
+    "pos": "sifat",
+    "translation": "saqlanib qolgan",
+    "example": "Few copies of the manuscript are still extant."
+  },
+  {
+    "date": "2025-11-20",
+    "word": "fawn",
+    "pos": "fe'l",
+    "translation": "xushomad qilmoq, yalinmoq",
+    "example": "The assistants were always fawning over the celebrity."
+  },
+  {
+    "date": "2025-11-21",
+    "word": "fervid",
+    "pos": "sifat",
+    "translation": "qizg'in, jo'shqin",
+    "example": "He gave a fervid speech in support of his candidate."
+  },
+  {
+    "date": "2025-11-22",
+    "word": "flag",
+    "pos": "fe'l",
+    "translation": "zaiflashmoq, susaymoq",
+    "example": "Their enthusiasm began to flag after hours of work."
+  },
+  {
+    "date": "2025-11-23",
+    "word": "fledgling",
+    "pos": "ot",
+    "translation": "yangi, tajribasiz",
+    "example": "The fledgling company struggled to compete with established giants."
+  },
+  {
+    "date": "2025-11-24",
+    "word": "guileless",
+    "pos": "sifat",
+    "translation": "sodda, ayyor bo'lmagan",
+    "example": "She had a guileless smile that made everyone trust her."
+  },
+  {
+    "date": "2025-11-25",
+    "word": "gullible",
+    "pos": "sifat",
+    "translation": "ishonuvchan, laqma",
+    "example": "The gullible man believed the story about winning the lottery."
+  },
+  {
+    "date": "2025-11-26",
+    "word": "heterogeneous",
+    "pos": "sifat",
+    "translation": "har xil, bir jinsli bo'lmagan",
+    "example": "The classroom was made up of a heterogeneous group of students."
+  },
+  {
+    "date": "2025-11-27",
+    "word": "hoary",
+    "pos": "sifat",
+    "translation": "juda eski, qadimiy",
+    "example": "He told a hoary old joke that nobody found funny."
+  },
+  {
+    "date": "2025-11-28",
+    "word": "hyperbole",
+    "pos": "ot",
+    "translation": "mubolag'a, bo'rttirish",
+    "example": "'I'm so hungry I could eat a horse' is an example of hyperbole."
+  },
+  {
+    "date": "2025-11-29",
+    "word": "idiosyncrasy",
+    "pos": "ot",
+    "translation": "o'ziga xoslik, g'alatilik",
+    "example": "One of his idiosyncrasies was wearing mismatched socks."
+  },
+  {
+    "date": "2025-11-30",
+    "word": "imminent",
+    "pos": "sifat",
+    "translation": "muqarrar, yaqinlashayotgan",
+    "example": "The dark clouds suggested that a storm was imminent."
+  },
+  {
+    "date": "2025-12-01",
+    "word": "immutable",
+    "pos": "sifat",
+    "translation": "o'zgarmas",
+    "example": "The laws of physics are considered immutable."
+  },
+  {
+    "date": "2025-12-02",
+    "word": "impede",
+    "pos": "fe'l",
+    "translation": "to'sqinlik qilmoq, xalaqit bermoq",
+    "example": "The bad weather will impede our progress."
+  },
+  {
+    "date": "2025-12-03",
+    "word": "imperious",
+    "pos": "sifat",
+    "translation": "hukmron, mag'rur",
+    "example": "She had an imperious manner and expected everyone to obey her."
+  },
+  {
+    "date": "2025-12-04",
+    "word": "imperturbable",
+    "pos": "sifat",
+    "translation": "vazmin, bosiq",
+    "example": "He remained imperturbable even in the face of chaos."
+  },
+  {
+    "date": "2025-12-05",
+    "word": "implacable",
+    "pos": "sifat",
+    "translation": "murosasiz, shafqatsiz",
+    "example": "He was an implacable enemy who would never forgive."
+  },
+  {
+    "date": "2025-12-06",
+    "word": "impugn",
+    "pos": "fe'l",
+    "translation": "shubha ostiga qo'ymoq",
+    "example": "It is unfair to impugn someone's character without evidence."
+  },
+  {
+    "date": "2025-12-07",
+    "word": "incipient",
+    "pos": "sifat",
+    "translation": "boshlang'ich, ilk",
+    "example": "He noticed the incipient signs of a cold."
+  },
+  {
+    "date": "2025-12-08",
+    "word": "incongruous",
+    "pos": "sifat",
+    "translation": "nomutanosib, mos kelmaydigan",
+    "example": "The modern furniture looked incongruous in the old castle."
+  },
+  {
+    "date": "2025-12-09",
+    "word": "indolent",
+    "pos": "sifat",
+    "translation": "dangasa, erinchoq",
+    "example": "The indolent cat slept all day."
+  },
+  {
+    "date": "2025-12-10",
+    "word": "inert",
+    "pos": "sifat",
+    "translation": "harakatsiz, inert",
+    "example": "He lay inert on the sofa, watching television."
+  },
+  {
+    "date": "2025-12-11",
+    "word": "ingenuous",
+    "pos": "sifat",
+    "translation": "sodda, beg'ubor",
+    "example": "Her ingenuous question revealed her lack of experience."
+  },
+  {
+    "date": "2025-12-12",
+    "word": "innocuous",
+    "pos": "sifat",
+    "translation": "zararsiz",
+    "example": "It was an innocuous-looking spider, but it was venomous."
+  },
+  {
+    "date": "2025-12-13",
+    "word": "insularity",
+    "pos": "ot",
+    "translation": "cheklanganlik, tor fikrlilik",
+    "example": "The insularity of the small town made it resistant to change."
+  },
+  {
+    "date": "2025-12-14",
+    "word": "inured",
+    "pos": "sifat",
+    "translation": "ko'nikkan, chidamli bo'lgan",
+    "example": "The soldiers were inured to the harsh conditions."
+  },
+  {
+    "date": "2025-12-15",
+    "word": "invidious",
+    "pos": "sifat",
+    "translation": "adovat qo'zg'atadigan",
+    "example": "Making invidious comparisons between siblings is unwise."
+  },
+  {
+    "date": "2025-12-16",
+    "word": "itinerary",
+    "pos": "ot",
+    "translation": "marshrut, sayohat rejasi",
+    "example": "Our itinerary includes visits to Paris, Rome, and Athens."
+  },
+  {
+    "date": "2025-12-17",
+    "word": "laconic",
+    "pos": "sifat",
+    "translation": "qisqa va lo'nda",
+    "example": "His laconic reply of 'yes' was all the confirmation we needed."
+  },
+  {
+    "date": "2025-12-18",
+    "word": "lambaste",
+    "pos": "fe'l",
+    "translation": "keskin tanqid qilmoq",
+    "example": "The critics decided to lambaste the new movie."
+  },
+  {
+    "date": "2025-12-19",
+    "word": "malinger",
+    "pos": "fe'l",
+    "translation": "o'zini kasalga solmoq",
+    "example": "He was suspected of malingering to avoid work."
+  },
+  {
+    "date": "2025-12-20",
+    "word": "maverick",
+    "pos": "ot",
+    "translation": "mustaqil fikrli odam",
+    "example": "He was a maverick who challenged the established norms of his party."
+  },
+  {
+    "date": "2025-12-21",
+    "word": "mitigate",
+    "pos": "fe'l",
+    "translation": "yumshatmoq, yengillashtirmoq",
+    "example": "The government took steps to mitigate the effects of the crisis."
+  },
+  {
+    "date": "2025-12-22",
+    "word": "mollify",
+    "pos": "fe'l",
+    "translation": "tinchlantirmoq, yumshatmoq",
+    "example": "He tried to mollify the angry customer with an apology."
+  },
+  {
+    "date": "2025-12-23",
+    "word": "morose",
+    "pos": "sifat",
+    "translation": "qovoq solgan, g'amgin",
+    "example": "He became morose and withdrawn after his defeat."
+  },
+  {
+    "date": "2025-12-24",
+    "word": "mundane",
+    "pos": "sifat",
+    "translation": "oddiy, zerikarli",
+    "example": "She was tired of her mundane, everyday routine."
+  },
+  {
+    "date": "2025-12-25",
+    "word": "naivete",
+    "pos": "ot",
+    "translation": "soddalik, ishonuvchanlik",
+    "example": "His naivete was charming but sometimes got him into trouble."
+  },
+  {
+    "date": "2025-12-26",
+    "word": "obtuse",
+    "pos": "sifat",
+    "translation": "o'tmas, fahmi past",
+    "example": "He was too obtuse to understand the subtle hint."
+  },
+  {
+    "date": "2025-12-27",
+    "word": "occlude",
+    "pos": "fe'l",
+    "translation": "to'sib qo'ymoq, berkitmoq",
+    "example": "A blood clot can occlude a major artery."
+  },
+  {
+    "date": "2025-12-28",
+    "word": "onerous",
+    "pos": "sifat",
+    "translation": "og'ir, mashaqqatli",
+    "example": "The interns were given the onerous task of sorting thousands of files."
+  },
+  {
+    "date": "2025-12-29",
+    "word": "opprobrium",
+    "pos": "ot",
+    "translation": "sharmandalik, isnod",
+    "example": "The scandal brought opprobrium upon the entire organization."
+  },
+  {
+    "date": "2025-12-30",
+    "word": "ossify",
+    "pos": "fe'l",
+    "translation": "qotib qolmoq, suyakka aylanmoq",
+    "example": "Our political system has started to ossify."
+  },
+  {
+    "date": "2025-12-31",
+    "word": "palpable",
+    "pos": "sifat",
+    "translation": "sezilarli, aniq",
+    "example": "There was a palpable sense of tension in the room."
+  },
+  {
+    "date": "2026-01-01",
+    "word": "gargantuan",
+    "pos": "sifat",
+    "translation": "ulkan, bahaybat",
+    "example": "It was a gargantuan task to clean up after the festival."
+  }
+]
